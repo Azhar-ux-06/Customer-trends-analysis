@@ -1,0 +1,1201 @@
+customer_id,age,gender,city,category,purchase_channel,payment_method,loyalty_tier,purchase_amount_inr,discount_applied,discount_pct,review_rating,days_since_last_purchase,total_orders_last_year,returned_item,subscribed_newsletter,churned
+CUST00001,39,Male,Mumbai,Books,Online App,Credit Card,Bronze,425.11,0,0.0,4.5,7,5,0,0,0
+CUST00002,50,Female,Mumbai,Electronics,Online App,Credit Card,Silver,3654.95,0,0.0,4.4,9,5,0,1,0
+CUST00003,24,Female,Hyderabad,Beauty & Personal Care,Website,UPI,Gold,391.57,0,0.0,5.0,10,4,0,0,0
+CUST00004,31,Male,Chennai,Electronics,Online App,UPI,Bronze,3419.54,0,0.0,4.8,4,4,0,0,0
+CUST00005,43,Female,Bhopal,Electronics,In-Store,Net Banking,Bronze,2302.48,0,0.0,4.1,35,8,0,1,0
+CUST00006,18,Female,Jaipur,Apparel,Website,UPI,Silver,715.64,1,39.5,2.5,14,6,0,1,0
+CUST00007,26,Female,Pune,Beauty & Personal Care,Website,Debit Card,Bronze,1120.2,0,0.0,4.8,66,4,0,1,0
+CUST00008,44,Male,Jaipur,Books,Online App,Credit Card,Bronze,418.01,0,0.0,3.5,17,10,1,1,0
+CUST00009,34,Male,Chennai,Grocery,Website,UPI,Bronze,616.28,0,0.0,4.0,107,4,0,0,1
+CUST00010,18,Male,Jaipur,Books,Online App,Net Banking,Bronze,540.26,1,21.1,4.9,92,7,0,0,1
+CUST00011,48,Female,Jaipur,Beauty & Personal Care,In-Store,Net Banking,Bronze,794.9,1,9.8,1.5,11,6,0,1,1
+CUST00012,37,Male,Bangalore,Books,Online App,Net Banking,Silver,150.0,0,0.0,3.9,15,3,0,0,0
+CUST00013,31,Female,Bhopal,Grocery,In-Store,UPI,Silver,784.43,0,0.0,3.9,190,8,0,1,0
+CUST00014,21,Male,Pune,Beauty & Personal Care,Online App,UPI,Platinum,722.36,1,14.2,4.7,9,3,0,0,0
+CUST00015,41,Male,Pune,Grocery,Website,Cash on Delivery,Bronze,357.6,0,0.0,4.4,22,6,0,1,0
+CUST00016,23,Male,Jaipur,Home & Kitchen,Website,UPI,Platinum,2400.16,1,34.1,5.0,33,6,0,0,0
+CUST00017,40,Male,Delhi,Books,Website,UPI,Platinum,669.07,0,0.0,4.1,0,2,0,1,0
+CUST00018,43,Male,Pune,Sports & Fitness,In-Store,Net Banking,Platinum,3143.36,1,31.4,4.3,47,8,0,1,0
+CUST00019,18,Female,Chennai,Beauty & Personal Care,In-Store,Net Banking,Bronze,622.16,0,0.0,4.7,44,7,0,0,0
+CUST00020,31,Male,Jaipur,Apparel,Online App,UPI,Bronze,1140.42,1,35.1,4.6,153,7,0,0,1
+CUST00021,40,Female,Hyderabad,Sports & Fitness,Online App,Cash on Delivery,Silver,3069.31,0,0.0,4.1,207,7,0,0,1
+CUST00022,25,Male,Delhi,Books,Online App,Net Banking,Silver,504.8,1,6.9,4.1,110,9,0,1,1
+CUST00023,33,Male,Kolkata,Books,Online App,UPI,Bronze,353.76,0,0.0,2.3,40,1,0,0,1
+CUST00024,37,Female,Ahmedabad,Apparel,In-Store,UPI,Silver,771.3,1,24.3,3.6,33,4,0,1,0
+CUST00025,57,Male,Delhi,Grocery,In-Store,Credit Card,Silver,877.5,0,0.0,2.1,71,3,0,1,0
+CUST00026,36,Male,Kolkata,Electronics,In-Store,Debit Card,Platinum,5408.98,1,15.0,4.7,23,5,0,1,0
+CUST00027,57,Female,Bangalore,Apparel,Online App,UPI,Silver,1695.58,0,0.0,2.5,19,2,0,0,0
+CUST00028,28,Female,Bhopal,Grocery,Website,UPI,Platinum,633.53,0,0.0,5.0,4,7,0,0,0
+CUST00029,34,Male,Kolkata,Electronics,In-Store,Cash on Delivery,Bronze,8726.39,1,26.7,4.3,8,2,0,0,1
+CUST00030,44,Female,Pune,Apparel,Website,Debit Card,Bronze,1254.49,0,0.0,4.5,22,8,0,0,0
+CUST00031,28,Female,Delhi,Electronics,Website,Cash on Delivery,Platinum,4873.68,0,0.0,4.7,1,8,0,0,0
+CUST00032,28,Female,Delhi,Apparel,Online App,Credit Card,Silver,1558.7,0,0.0,4.4,209,9,0,1,1
+CUST00033,48,Male,Bhopal,Home & Kitchen,In-Store,UPI,Platinum,2218.48,0,0.0,4.5,22,2,0,0,0
+CUST00034,30,Male,Pune,Home & Kitchen,Website,Debit Card,Bronze,3882.84,1,14.2,4.9,26,7,0,1,0
+CUST00035,18,Male,Delhi,Books,Online App,Debit Card,Bronze,768.68,0,0.0,3.6,5,4,0,1,0
+CUST00036,42,Male,Ahmedabad,Sports & Fitness,Website,Cash on Delivery,Bronze,1460.85,0,0.0,4.1,3,8,1,1,0
+CUST00037,18,Male,Chennai,Sports & Fitness,Website,Net Banking,Bronze,2930.42,0,0.0,3.6,28,2,1,1,1
+CUST00038,33,Male,Chennai,Apparel,Website,UPI,Bronze,1449.29,1,35.6,5.0,147,5,1,1,1
+CUST00039,36,Male,Bangalore,Grocery,In-Store,Net Banking,Bronze,703.53,1,16.6,4.0,156,7,1,1,1
+CUST00040,25,Male,Pune,Apparel,Website,UPI,Bronze,2251.11,0,0.0,3.2,14,4,0,0,0
+CUST00041,18,Female,Chennai,Home & Kitchen,In-Store,Credit Card,Bronze,2518.98,1,18.9,4.4,7,9,0,0,0
+CUST00042,44,Female,Chennai,Books,Website,Cash on Delivery,Bronze,503.19,0,0.0,2.9,21,6,0,0,1
+CUST00043,34,Female,Mumbai,Electronics,Website,Debit Card,Gold,4584.57,0,0.0,3.5,26,7,0,0,0
+CUST00044,40,Female,Jaipur,Apparel,Online App,Net Banking,Bronze,1944.55,1,23.8,4.0,33,6,0,1,0
+CUST00045,50,Male,Chennai,Beauty & Personal Care,Online App,Debit Card,Silver,1216.02,1,9.4,3.5,0,8,1,0,0
+CUST00046,30,Female,Chennai,Beauty & Personal Care,Website,Cash on Delivery,Bronze,286.78,0,0.0,3.9,27,5,1,1,0
+CUST00047,38,Male,Jaipur,Sports & Fitness,Online App,Cash on Delivery,Gold,1123.29,0,0.0,3.4,102,4,0,1,0
+CUST00048,22,Female,Ahmedabad,Beauty & Personal Care,Online App,Credit Card,Silver,606.42,1,38.6,3.4,4,4,0,1,0
+CUST00049,26,Female,Bhopal,Books,Website,Debit Card,Bronze,488.52,1,13.2,3.8,73,6,0,1,0
+CUST00050,31,Male,Mumbai,Electronics,Online App,Net Banking,Silver,6032.52,1,20.9,3.0,101,5,1,0,0
+CUST00051,31,Female,Ahmedabad,Beauty & Personal Care,Online App,UPI,Gold,882.8,1,36.0,2.9,17,6,0,0,0
+CUST00052,26,Female,Mumbai,Sports & Fitness,Online App,UPI,Silver,2896.65,1,28.4,4.4,25,5,1,0,0
+CUST00053,18,Female,Jaipur,Grocery,Website,Cash on Delivery,Silver,857.63,1,20.6,3.3,9,4,0,1,0
+CUST00054,28,Female,Pune,Grocery,Online App,Debit Card,Gold,809.27,0,0.0,3.8,90,7,0,0,0
+CUST00055,27,Male,Pune,Apparel,Online App,Debit Card,Gold,719.02,0,0.0,4.2,12,4,0,0,0
+CUST00056,18,Male,Hyderabad,Electronics,Online App,Debit Card,Silver,3326.7,0,0.0,3.9,18,4,0,0,0
+CUST00057,46,Male,Jaipur,Beauty & Personal Care,Website,Debit Card,Bronze,1177.79,0,0.0,3.2,23,8,1,1,0
+CUST00058,60,Male,Ahmedabad,Apparel,Online App,Net Banking,Bronze,1760.54,0,0.0,4.1,6,5,0,0,0
+CUST00059,43,Male,Ahmedabad,Apparel,In-Store,Cash on Delivery,Bronze,1043.51,0,0.0,5.0,26,7,0,0,0
+CUST00060,29,Female,Bangalore,Grocery,Website,UPI,Bronze,765.97,0,0.0,4.6,5,9,0,0,0
+CUST00061,43,Female,Pune,Grocery,In-Store,Net Banking,Bronze,460.3,0,0.0,4.0,64,6,0,0,0
+CUST00062,28,Female,Hyderabad,Books,Online App,UPI,Gold,373.07,1,12.0,3.4,57,8,0,0,0
+CUST00063,41,Male,Ahmedabad,Books,Online App,Credit Card,Silver,439.99,0,0.0,4.2,31,7,0,1,0
+CUST00064,21,Male,Bangalore,Home & Kitchen,Online App,UPI,Platinum,3856.18,1,36.8,5.0,24,10,0,1,0
+CUST00065,27,Male,Delhi,Sports & Fitness,Website,Credit Card,Bronze,1703.95,1,34.8,4.9,0,8,0,0,0
+CUST00066,27,Male,Chennai,Sports & Fitness,Online App,Debit Card,Bronze,1623.06,1,5.4,3.7,31,5,0,0,0
+CUST00067,31,Female,Chennai,Books,In-Store,Net Banking,Gold,250.83,0,0.0,5.0,3,5,0,1,0
+CUST00068,34,Female,Jaipur,Grocery,In-Store,Net Banking,Silver,500.4,1,25.7,4.0,67,6,0,0,0
+CUST00069,32,Male,Pune,Beauty & Personal Care,Online App,Net Banking,Silver,1090.0,1,16.8,4.6,23,3,0,0,0
+CUST00070,19,Female,Hyderabad,Home & Kitchen,Website,Debit Card,Bronze,1580.07,1,35.8,3.2,50,1,0,0,1
+CUST00071,39,Male,Delhi,Apparel,Website,Net Banking,Silver,694.44,0,0.0,3.6,12,8,0,1,0
+CUST00072,31,Female,Mumbai,Electronics,Online App,Net Banking,Silver,5087.04,0,0.0,2.8,24,7,0,0,0
+CUST00073,18,Female,Kolkata,Books,Website,Debit Card,Gold,755.36,0,0.0,4.1,64,6,0,0,0
+CUST00074,32,Male,Chennai,Electronics,Website,Credit Card,Bronze,8379.43,1,14.7,4.5,13,6,0,1,0
+CUST00075,36,Female,Delhi,Grocery,Online App,Credit Card,Bronze,426.06,0,0.0,4.3,47,2,0,0,0
+CUST00076,18,Male,Mumbai,Sports & Fitness,Online App,Credit Card,Silver,2966.78,1,8.6,5.0,49,5,0,0,0
+CUST00077,30,Female,Ahmedabad,Home & Kitchen,Online App,UPI,Bronze,2374.73,1,9.0,2.6,22,9,0,0,0
+CUST00078,40,Male,Bangalore,Apparel,In-Store,Debit Card,Bronze,1491.63,0,0.0,2.5,2,5,0,0,1
+CUST00079,55,Male,Bhopal,Beauty & Personal Care,Website,Net Banking,Bronze,882.98,1,20.0,2.5,76,7,0,0,1
+CUST00080,29,Male,Hyderabad,Books,Online App,UPI,Bronze,212.52,0,0.0,3.7,35,11,0,0,0
+CUST00081,43,Female,Jaipur,Beauty & Personal Care,Online App,Credit Card,Bronze,948.19,0,0.0,4.3,159,7,0,0,1
+CUST00082,31,Male,Pune,Grocery,Website,Cash on Delivery,Silver,408.1,1,19.9,5.0,58,5,0,1,0
+CUST00083,19,Female,Bangalore,Electronics,Online App,Debit Card,Silver,5553.91,1,37.2,4.5,72,12,0,0,0
+CUST00084,34,Female,Kolkata,Home & Kitchen,Website,Net Banking,Silver,1016.88,1,36.1,3.1,15,2,0,1,0
+CUST00085,18,Male,Delhi,Apparel,In-Store,Cash on Delivery,Silver,620.45,0,0.0,2.9,134,7,0,1,1
+CUST00086,41,Male,Bangalore,Beauty & Personal Care,Website,Net Banking,Platinum,1320.16,0,0.0,5.0,32,3,0,1,0
+CUST00087,28,Female,Delhi,Beauty & Personal Care,Online App,Debit Card,Bronze,839.48,0,0.0,3.6,63,5,0,0,0
+CUST00088,21,Female,Pune,Books,In-Store,Cash on Delivery,Bronze,298.78,0,0.0,4.0,94,8,0,0,1
+CUST00089,18,Female,Bhopal,Grocery,In-Store,Cash on Delivery,Silver,495.34,0,0.0,3.9,3,5,0,1,0
+CUST00090,53,Female,Ahmedabad,Grocery,Online App,Debit Card,Silver,562.96,1,20.3,4.8,50,13,0,0,0
+CUST00091,32,Male,Bangalore,Home & Kitchen,Website,Cash on Delivery,Silver,2329.11,0,0.0,5.0,7,3,0,0,0
+CUST00092,25,Male,Bangalore,Beauty & Personal Care,In-Store,Debit Card,Silver,968.8,0,0.0,3.9,44,8,0,1,0
+CUST00093,35,Male,Ahmedabad,Sports & Fitness,Online App,Credit Card,Platinum,2094.13,0,0.0,3.7,55,4,0,1,0
+CUST00094,29,Female,Kolkata,Home & Kitchen,In-Store,Cash on Delivery,Bronze,1708.15,0,0.0,4.2,63,1,0,1,1
+CUST00095,51,Female,Bangalore,Beauty & Personal Care,Website,Debit Card,Bronze,876.33,1,18.2,3.4,14,7,1,1,0
+CUST00096,54,Male,Jaipur,Beauty & Personal Care,Online App,Net Banking,Bronze,439.09,1,29.7,4.7,135,6,0,0,1
+CUST00097,43,Male,Ahmedabad,Electronics,Online App,Cash on Delivery,Bronze,4128.18,0,0.0,3.3,1,12,0,0,0
+CUST00098,26,Female,Mumbai,Books,Online App,Credit Card,Bronze,485.37,1,14.3,4.5,71,4,0,0,0
+CUST00099,25,Male,Chennai,Grocery,Website,Cash on Delivery,Bronze,696.0,0,0.0,2.5,71,2,0,1,1
+CUST00100,40,Male,Jaipur,Electronics,Online App,Debit Card,Platinum,3685.85,1,20.2,1.7,41,6,0,1,0
+CUST00101,60,Male,Ahmedabad,Apparel,Website,UPI,Bronze,1189.15,1,15.3,4.4,0,4,0,0,0
+CUST00102,53,Female,Jaipur,Books,Website,Credit Card,Bronze,269.71,1,18.4,3.6,37,4,0,0,0
+CUST00103,53,Male,Hyderabad,Beauty & Personal Care,Website,Net Banking,Bronze,1028.85,0,0.0,4.3,72,8,0,1,0
+CUST00104,41,Male,Delhi,Beauty & Personal Care,In-Store,Cash on Delivery,Bronze,665.49,1,29.2,3.5,92,7,0,0,1
+CUST00105,34,Female,Ahmedabad,Electronics,Online App,Cash on Delivery,Bronze,4716.06,0,0.0,4.5,3,4,0,0,0
+CUST00106,22,Female,Pune,Electronics,Website,UPI,Platinum,1144.2,1,34.1,3.1,20,8,1,1,0
+CUST00107,41,Male,Jaipur,Grocery,Online App,Credit Card,Silver,258.61,1,30.2,5.0,59,6,0,1,0
+CUST00108,49,Male,Mumbai,Home & Kitchen,Website,UPI,Silver,747.57,1,8.2,3.9,92,7,0,1,1
+CUST00109,46,Male,Hyderabad,Apparel,Website,Debit Card,Silver,860.12,1,34.1,2.5,3,6,0,1,0
+CUST00110,31,Female,Pune,Books,In-Store,UPI,Silver,387.24,0,0.0,3.6,1,8,0,0,0
+CUST00111,34,Female,Bhopal,Home & Kitchen,Online App,Net Banking,Bronze,1594.96,0,0.0,3.8,122,3,0,1,1
+CUST00112,22,Female,Jaipur,Beauty & Personal Care,In-Store,Debit Card,Bronze,950.16,0,0.0,4.3,91,5,0,1,1
+CUST00113,23,Female,Jaipur,Apparel,Website,Net Banking,Platinum,1509.25,0,0.0,4.1,26,10,0,0,0
+CUST00114,26,Male,Pune,Beauty & Personal Care,Online App,Credit Card,Gold,1297.99,0,0.0,5.0,10,6,0,1,0
+CUST00115,45,Female,Jaipur,Books,Website,Net Banking,Silver,404.57,1,26.5,4.2,60,9,1,0,0
+CUST00116,49,Female,Hyderabad,Beauty & Personal Care,Online App,Credit Card,Gold,439.91,0,0.0,2.4,53,5,0,0,0
+CUST00117,45,Female,Mumbai,Beauty & Personal Care,Online App,UPI,Platinum,1452.23,1,8.2,1.9,89,3,0,1,0
+CUST00118,26,Male,Mumbai,Grocery,Online App,Credit Card,Gold,1104.71,0,0.0,2.3,34,6,0,0,0
+CUST00119,42,Male,Hyderabad,Home & Kitchen,Website,Cash on Delivery,Bronze,2447.45,1,10.1,4.0,2,5,0,0,0
+CUST00120,33,Male,Delhi,Books,In-Store,Credit Card,Bronze,482.38,1,13.3,5.0,16,5,0,0,0
+CUST00121,35,Male,Bangalore,Books,Online App,UPI,Gold,209.88,0,0.0,3.4,37,5,0,0,0
+CUST00122,37,Male,Ahmedabad,Sports & Fitness,Online App,Cash on Delivery,Bronze,1888.05,1,35.3,4.4,76,8,0,0,0
+CUST00123,42,Male,Mumbai,Beauty & Personal Care,In-Store,Net Banking,Silver,698.24,0,0.0,5.0,4,7,1,0,0
+CUST00124,24,Male,Chennai,Sports & Fitness,Online App,Credit Card,Bronze,2681.7,1,24.2,5.0,35,7,0,1,0
+CUST00125,44,Female,Ahmedabad,Sports & Fitness,Website,UPI,Gold,2594.92,0,0.0,4.2,38,2,0,1,0
+CUST00126,28,Male,Kolkata,Beauty & Personal Care,In-Store,Net Banking,Bronze,690.59,0,0.0,3.0,11,3,0,0,0
+CUST00127,36,Female,Chennai,Books,Online App,Credit Card,Silver,169.94,0,0.0,4.2,34,8,0,0,0
+CUST00128,43,Female,Delhi,Books,Website,Credit Card,Silver,271.68,1,24.7,4.5,34,7,0,0,0
+CUST00129,34,Female,Kolkata,Grocery,In-Store,UPI,Platinum,918.42,1,17.3,4.0,43,6,0,0,0
+CUST00130,47,Female,Hyderabad,Grocery,Online App,Cash on Delivery,Bronze,479.92,1,25.1,2.7,4,11,0,1,1
+CUST00131,34,Male,Jaipur,Books,In-Store,Debit Card,Bronze,432.2,0,0.0,4.7,91,5,0,1,1
+CUST00132,30,Female,Mumbai,Apparel,In-Store,Cash on Delivery,Silver,1213.53,0,0.0,3.9,46,8,0,1,0
+CUST00133,29,Male,Bhopal,Apparel,Online App,Net Banking,Bronze,723.69,0,0.0,4.4,25,5,0,1,0
+CUST00134,34,Male,Mumbai,Apparel,Online App,Cash on Delivery,Bronze,736.07,0,0.0,4.3,2,4,0,0,0
+CUST00135,27,Female,Kolkata,Home & Kitchen,Online App,Cash on Delivery,Bronze,1933.83,0,0.0,3.6,32,9,0,1,0
+CUST00136,35,Female,Bhopal,Books,Online App,Credit Card,Bronze,239.38,1,5.3,2.3,79,4,0,0,0
+CUST00137,43,Male,Pune,Home & Kitchen,Online App,UPI,Silver,1499.13,0,0.0,4.0,10,3,0,0,0
+CUST00138,21,Male,Bhopal,Sports & Fitness,In-Store,Debit Card,Bronze,1084.24,1,6.5,3.9,35,5,0,1,0
+CUST00139,18,Female,Jaipur,Beauty & Personal Care,Website,Net Banking,Bronze,739.82,0,0.0,3.1,69,8,1,0,0
+CUST00140,18,Female,Chennai,Electronics,Online App,UPI,Bronze,8383.15,1,23.3,3.4,48,5,0,0,0
+CUST00141,56,Female,Hyderabad,Home & Kitchen,Website,UPI,Silver,2320.15,0,0.0,3.6,3,4,0,1,0
+CUST00142,36,Female,Chennai,Books,In-Store,Credit Card,Bronze,572.45,0,0.0,4.9,9,4,0,1,0
+CUST00143,44,Male,Bangalore,Grocery,Website,Net Banking,Gold,488.1,1,20.7,2.6,10,5,1,0,0
+CUST00144,50,Female,Chennai,Apparel,Online App,Net Banking,Silver,891.11,0,0.0,4.7,175,8,0,0,0
+CUST00145,18,Male,Pune,Beauty & Personal Care,Website,UPI,Bronze,198.76,0,0.0,4.4,12,7,0,1,0
+CUST00146,35,Male,Jaipur,Sports & Fitness,Website,Net Banking,Silver,2403.05,1,30.9,3.2,27,8,0,1,0
+CUST00147,38,Male,Chennai,Sports & Fitness,Website,Credit Card,Platinum,1331.02,0,0.0,3.4,31,11,0,1,0
+CUST00148,40,Male,Bhopal,Books,Online App,Credit Card,Gold,412.38,1,23.3,3.1,72,7,0,0,0
+CUST00149,25,Female,Kolkata,Beauty & Personal Care,Website,Cash on Delivery,Bronze,1133.38,1,16.7,3.8,17,9,0,0,0
+CUST00150,38,Female,Pune,Home & Kitchen,Website,Cash on Delivery,Gold,857.42,0,0.0,5.0,71,4,0,0,0
+CUST00151,54,Female,Pune,Books,Website,Net Banking,Bronze,789.59,1,8.0,5.0,73,4,0,1,0
+CUST00152,44,Female,Bangalore,Books,Website,Cash on Delivery,Bronze,575.35,1,22.8,4.8,69,5,0,0,0
+CUST00153,50,Male,Chennai,Grocery,Website,Credit Card,Platinum,876.63,0,0.0,3.0,45,7,0,1,0
+CUST00154,54,Male,Chennai,Grocery,Website,Cash on Delivery,Bronze,739.45,0,0.0,2.3,15,9,0,1,0
+CUST00155,33,Male,Ahmedabad,Electronics,Online App,Credit Card,Platinum,7690.05,1,31.3,5.0,65,6,0,0,0
+CUST00156,28,Male,Pune,Grocery,Website,Credit Card,Bronze,426.61,1,39.5,3.1,12,6,0,0,0
+CUST00157,18,Female,Bhopal,Sports & Fitness,Online App,Credit Card,Gold,2436.51,1,9.8,4.6,0,6,0,1,0
+CUST00158,30,Female,Bhopal,Electronics,Website,Cash on Delivery,Gold,2501.28,0,0.0,4.4,37,5,0,0,0
+CUST00159,40,Male,Kolkata,Electronics,In-Store,Credit Card,Gold,3690.76,1,37.6,4.8,5,5,0,0,0
+CUST00160,63,Female,Hyderabad,Beauty & Personal Care,In-Store,Debit Card,Bronze,444.12,0,0.0,3.8,131,6,0,1,1
+CUST00161,31,Female,Bangalore,Apparel,Online App,Net Banking,Silver,1859.94,0,0.0,3.3,8,8,0,0,0
+CUST00162,25,Male,Delhi,Electronics,Online App,Credit Card,Silver,4390.12,1,23.5,3.2,107,8,0,0,1
+CUST00163,44,Female,Delhi,Electronics,Online App,Cash on Delivery,Silver,3297.34,0,0.0,5.0,71,9,1,0,0
+CUST00164,45,Male,Bhopal,Sports & Fitness,Online App,Credit Card,Bronze,1558.96,0,0.0,3.5,9,5,0,0,0
+CUST00165,34,Male,Delhi,Sports & Fitness,In-Store,UPI,Platinum,2816.8,0,0.0,3.8,186,6,0,0,1
+CUST00166,38,Male,Kolkata,Grocery,Website,Net Banking,Platinum,1202.02,0,0.0,4.1,99,7,0,1,0
+CUST00167,32,Female,Hyderabad,Books,Website,UPI,Gold,685.07,1,16.6,3.8,79,5,0,0,0
+CUST00168,18,Male,Ahmedabad,Books,Website,Credit Card,Gold,330.71,0,0.0,2.1,62,9,0,0,0
+CUST00169,29,Female,Hyderabad,Electronics,Website,UPI,Bronze,5443.68,0,0.0,3.4,46,4,0,1,0
+CUST00170,42,Female,Pune,Electronics,Website,Credit Card,Bronze,5425.03,1,6.7,4.1,92,8,0,0,1
+CUST00171,35,Female,Kolkata,Beauty & Personal Care,Website,Net Banking,Bronze,1296.22,0,0.0,4.1,5,6,0,0,0
+CUST00172,33,Female,Delhi,Books,Online App,Net Banking,Silver,582.99,1,24.1,4.5,0,8,0,0,0
+CUST00173,18,Female,Pune,Beauty & Personal Care,Website,Net Banking,Bronze,793.34,0,0.0,2.5,16,7,0,1,0
+CUST00174,42,Female,Jaipur,Beauty & Personal Care,Online App,UPI,Bronze,1164.35,1,17.7,3.3,1,7,0,1,0
+CUST00175,36,Male,Bangalore,Grocery,Website,Net Banking,Bronze,879.74,0,0.0,4.5,25,10,0,0,0
+CUST00176,63,Female,Jaipur,Electronics,Website,Net Banking,Platinum,4057.09,0,0.0,3.1,30,7,0,0,0
+CUST00177,27,Female,Kolkata,Home & Kitchen,Website,Credit Card,Platinum,2167.41,0,0.0,3.5,160,5,0,0,1
+CUST00178,26,Male,Pune,Grocery,Online App,Net Banking,Bronze,613.42,1,29.3,3.2,73,6,1,0,0
+CUST00179,35,Male,Delhi,Beauty & Personal Care,Online App,Net Banking,Platinum,150.0,1,38.9,3.9,54,5,1,1,0
+CUST00180,45,Male,Bhopal,Sports & Fitness,Online App,Debit Card,Gold,2355.86,1,37.5,5.0,16,3,0,1,0
+CUST00181,35,Male,Delhi,Apparel,Website,Credit Card,Gold,904.91,0,0.0,3.3,21,5,0,0,0
+CUST00182,37,Male,Jaipur,Electronics,Online App,Net Banking,Platinum,5421.46,1,23.4,3.7,49,3,0,1,0
+CUST00183,36,Male,Bangalore,Home & Kitchen,Website,Net Banking,Silver,2867.87,0,0.0,4.2,5,4,0,1,0
+CUST00184,41,Male,Bangalore,Beauty & Personal Care,Website,UPI,Gold,853.73,0,0.0,2.2,38,3,0,0,0
+CUST00185,44,Male,Chennai,Sports & Fitness,In-Store,UPI,Bronze,2107.58,1,24.3,3.3,50,9,0,0,0
+CUST00186,53,Male,Bhopal,Books,Online App,Cash on Delivery,Bronze,684.78,1,30.2,2.4,55,5,0,1,1
+CUST00187,48,Male,Mumbai,Electronics,Online App,Cash on Delivery,Bronze,7012.23,0,0.0,3.4,23,8,0,1,0
+CUST00188,31,Male,Ahmedabad,Books,Website,Debit Card,Silver,450.99,1,29.0,3.5,149,2,0,0,1
+CUST00189,31,Male,Bangalore,Beauty & Personal Care,Online App,Net Banking,Bronze,1475.51,1,15.9,4.4,5,10,0,1,0
+CUST00190,30,Female,Kolkata,Apparel,Website,Cash on Delivery,Silver,1287.98,0,0.0,2.8,35,6,0,0,0
+CUST00191,18,Male,Bangalore,Electronics,Online App,Net Banking,Gold,5846.24,0,0.0,2.9,26,9,1,1,0
+CUST00192,36,Female,Jaipur,Books,Online App,Credit Card,Silver,925.98,0,0.0,2.5,11,9,0,0,0
+CUST00193,38,Male,Delhi,Beauty & Personal Care,Website,Credit Card,Bronze,889.47,0,0.0,4.9,39,6,0,0,0
+CUST00194,33,Female,Pune,Sports & Fitness,Online App,UPI,Silver,2659.65,1,30.5,3.6,65,8,0,0,0
+CUST00195,40,Female,Mumbai,Sports & Fitness,Website,Debit Card,Silver,150.0,0,0.0,4.5,0,6,0,1,0
+CUST00196,36,Female,Jaipur,Books,Website,Credit Card,Platinum,289.02,0,0.0,3.3,142,4,0,0,0
+CUST00197,41,Female,Bangalore,Apparel,Website,Net Banking,Silver,1447.77,0,0.0,3.3,63,7,0,0,0
+CUST00198,38,Female,Bhopal,Beauty & Personal Care,Online App,Cash on Delivery,Bronze,656.94,1,16.1,3.8,19,6,0,1,0
+CUST00199,50,Female,Jaipur,Home & Kitchen,Website,Cash on Delivery,Silver,2202.71,1,15.5,3.7,3,6,0,0,0
+CUST00200,34,Male,Kolkata,Sports & Fitness,Online App,UPI,Silver,1609.55,0,0.0,2.1,11,8,0,1,0
+CUST00201,26,Male,Mumbai,Sports & Fitness,Website,Cash on Delivery,Silver,1936.15,1,34.4,2.9,56,8,0,1,0
+CUST00202,42,Male,Jaipur,Books,Online App,UPI,Silver,355.66,0,0.0,4.0,62,1,0,0,0
+CUST00203,30,Female,Mumbai,Books,Online App,Credit Card,Silver,477.93,1,21.7,4.6,17,5,0,1,0
+CUST00204,24,Female,Bhopal,Home & Kitchen,Website,Debit Card,Silver,2948.79,0,0.0,3.8,21,7,0,0,0
+CUST00205,44,Male,Pune,Grocery,Online App,Credit Card,Silver,1046.12,0,0.0,4.0,15,4,0,0,0
+CUST00206,36,Female,Pune,Electronics,Website,Cash on Delivery,Bronze,150.0,1,33.6,3.9,27,3,1,1,0
+CUST00207,47,Female,Mumbai,Home & Kitchen,In-Store,UPI,Bronze,1918.32,0,0.0,3.5,48,6,0,0,0
+CUST00208,39,Male,Bhopal,Home & Kitchen,In-Store,Debit Card,Bronze,1434.7,1,25.5,4.9,46,6,0,1,0
+CUST00209,18,Male,Hyderabad,Electronics,Online App,Debit Card,Gold,4714.23,0,0.0,2.5,0,6,0,0,0
+CUST00210,21,Male,Kolkata,Books,In-Store,Net Banking,Silver,454.04,0,0.0,4.4,50,6,1,0,0
+CUST00211,31,Male,Delhi,Books,Website,Cash on Delivery,Gold,484.6,1,6.3,4.8,32,2,1,0,0
+CUST00212,25,Male,Mumbai,Grocery,Online App,Net Banking,Bronze,746.13,1,35.5,3.9,84,5,0,0,0
+CUST00213,32,Female,Jaipur,Sports & Fitness,Online App,Debit Card,Bronze,616.9,1,24.0,3.7,2,8,0,1,0
+CUST00214,52,Female,Pune,Apparel,In-Store,Debit Card,Bronze,1362.63,0,0.0,3.0,68,7,0,0,0
+CUST00215,31,Female,Pune,Sports & Fitness,Website,Credit Card,Bronze,478.29,1,36.4,4.2,2,1,0,0,1
+CUST00216,40,Male,Kolkata,Books,Online App,Credit Card,Silver,253.97,1,5.2,3.8,142,5,0,0,1
+CUST00217,58,Female,Chennai,Home & Kitchen,Website,Cash on Delivery,Bronze,532.86,1,29.2,3.4,8,7,0,0,0
+CUST00218,33,Female,Bangalore,Beauty & Personal Care,Website,Debit Card,Silver,917.27,1,37.9,4.2,13,5,0,0,0
+CUST00219,34,Male,Ahmedabad,Apparel,Website,Cash on Delivery,Bronze,1474.6,1,36.9,3.8,57,7,0,1,0
+CUST00220,20,Male,Hyderabad,Books,Website,UPI,Silver,561.33,0,0.0,3.7,11,6,0,1,0
+CUST00221,57,Male,Mumbai,Grocery,Website,Cash on Delivery,Bronze,630.83,0,0.0,3.6,22,9,0,1,0
+CUST00222,26,Female,Delhi,Books,Online App,Cash on Delivery,Silver,326.77,1,20.6,4.6,37,5,0,0,0
+CUST00223,29,Female,Ahmedabad,Sports & Fitness,Online App,Net Banking,Silver,2294.15,0,0.0,4.0,25,11,0,0,0
+CUST00224,40,Male,Hyderabad,Sports & Fitness,Online App,Net Banking,Bronze,898.28,0,0.0,4.2,18,3,1,1,0
+CUST00225,18,Male,Ahmedabad,Electronics,Online App,Credit Card,Gold,4858.11,1,39.2,4.3,18,8,0,0,0
+CUST00226,38,Female,Ahmedabad,Grocery,In-Store,Net Banking,Bronze,893.27,1,28.2,1.6,2,5,0,1,1
+CUST00227,47,Female,Delhi,Apparel,In-Store,Net Banking,Silver,1593.87,1,12.8,3.7,16,10,0,0,0
+CUST00228,46,Female,Ahmedabad,Books,Website,Net Banking,Silver,465.36,1,13.7,3.2,55,5,0,0,0
+CUST00229,45,Male,Mumbai,Grocery,Website,Cash on Delivery,Gold,420.54,1,5.5,3.6,32,13,0,0,0
+CUST00230,36,Male,Ahmedabad,Sports & Fitness,Website,UPI,Bronze,2116.44,0,0.0,4.6,58,8,0,0,0
+CUST00231,33,Male,Bangalore,Sports & Fitness,In-Store,Credit Card,Gold,2127.45,1,16.2,4.6,76,6,0,1,0
+CUST00232,22,Female,Hyderabad,Home & Kitchen,In-Store,Cash on Delivery,Bronze,305.06,0,0.0,4.9,6,7,0,1,0
+CUST00233,47,Male,Kolkata,Sports & Fitness,Website,Debit Card,Platinum,1988.1,1,32.5,3.6,35,6,0,0,0
+CUST00234,35,Male,Pune,Beauty & Personal Care,Online App,Cash on Delivery,Silver,646.68,1,15.5,4.7,25,6,0,1,0
+CUST00235,30,Male,Bhopal,Beauty & Personal Care,In-Store,Cash on Delivery,Silver,422.62,0,0.0,3.5,14,5,0,0,0
+CUST00236,36,Male,Ahmedabad,Grocery,Online App,Cash on Delivery,Gold,635.49,0,0.0,3.1,60,5,0,1,0
+CUST00237,23,Male,Delhi,Apparel,In-Store,Cash on Delivery,Gold,718.1,1,21.8,4.1,41,3,0,0,0
+CUST00238,34,Male,Hyderabad,Apparel,In-Store,UPI,Gold,2003.26,1,37.0,5.0,47,3,0,1,0
+CUST00239,43,Female,Hyderabad,Sports & Fitness,Online App,Debit Card,Bronze,2907.31,0,0.0,2.9,40,7,0,0,1
+CUST00240,23,Female,Ahmedabad,Electronics,In-Store,Net Banking,Gold,6385.17,0,0.0,5.0,23,2,0,0,0
+CUST00241,32,Male,Jaipur,Grocery,Online App,Credit Card,Bronze,839.3,1,25.4,3.6,50,2,0,0,1
+CUST00242,38,Male,Chennai,Apparel,Online App,Credit Card,Silver,1308.15,1,29.0,3.6,110,4,0,1,1
+CUST00243,51,Female,Ahmedabad,Apparel,Website,Debit Card,Bronze,1819.38,1,22.1,4.6,4,3,1,0,0
+CUST00244,23,Male,Bhopal,Electronics,In-Store,UPI,Platinum,3242.51,1,31.8,3.1,12,5,0,1,0
+CUST00245,38,Male,Delhi,Books,Online App,Credit Card,Silver,531.46,0,0.0,2.6,43,7,0,1,0
+CUST00246,36,Female,Ahmedabad,Electronics,Online App,Cash on Delivery,Silver,5958.62,0,0.0,3.7,49,9,0,0,0
+CUST00247,28,Female,Mumbai,Sports & Fitness,In-Store,Net Banking,Gold,523.08,1,8.7,3.3,30,6,0,0,0
+CUST00248,34,Male,Jaipur,Sports & Fitness,Online App,Debit Card,Bronze,2369.07,0,0.0,4.2,75,4,0,0,0
+CUST00249,18,Male,Hyderabad,Home & Kitchen,Website,UPI,Silver,2668.89,1,31.6,4.8,70,8,0,0,0
+CUST00250,28,Female,Mumbai,Books,Online App,Credit Card,Bronze,481.54,1,27.6,5.0,9,9,0,1,0
+CUST00251,29,Male,Bhopal,Electronics,Online App,Cash on Delivery,Silver,3968.84,0,0.0,4.8,32,2,0,1,0
+CUST00252,44,Male,Bangalore,Grocery,Online App,Credit Card,Silver,621.31,1,29.9,4.3,19,4,0,0,0
+CUST00253,18,Male,Jaipur,Apparel,Website,Net Banking,Silver,928.91,0,0.0,4.8,24,8,0,1,0
+CUST00254,56,Male,Bhopal,Books,In-Store,UPI,Bronze,495.33,0,0.0,3.1,5,5,0,1,0
+CUST00255,18,Female,Chennai,Electronics,Website,Net Banking,Silver,4967.23,0,0.0,3.9,37,3,1,0,0
+CUST00256,25,Female,Delhi,Grocery,Website,Credit Card,Gold,1048.46,0,0.0,4.0,77,9,0,1,0
+CUST00257,30,Male,Kolkata,Home & Kitchen,Online App,UPI,Bronze,3027.81,0,0.0,4.3,3,7,0,0,0
+CUST00258,34,Male,Delhi,Apparel,Online App,Cash on Delivery,Silver,597.94,0,0.0,2.6,3,5,0,0,0
+CUST00259,31,Male,Jaipur,Sports & Fitness,Website,Net Banking,Bronze,3319.3,0,0.0,4.1,3,10,0,1,0
+CUST00260,50,Male,Jaipur,Sports & Fitness,Online App,Net Banking,Bronze,2013.53,0,0.0,4.3,107,9,0,0,1
+CUST00261,22,Male,Kolkata,Home & Kitchen,Online App,Net Banking,Gold,1509.41,0,0.0,3.6,107,4,1,1,1
+CUST00262,18,Female,Jaipur,Sports & Fitness,Online App,UPI,Bronze,2598.0,0,0.0,4.4,14,6,0,1,0
+CUST00263,39,Female,Chennai,Beauty & Personal Care,Online App,Cash on Delivery,Bronze,407.83,0,0.0,4.7,75,6,1,0,0
+CUST00264,20,Female,Bangalore,Beauty & Personal Care,In-Store,Debit Card,Gold,780.25,1,38.9,4.3,36,5,0,0,0
+CUST00265,28,Female,Kolkata,Home & Kitchen,Online App,Cash on Delivery,Bronze,2767.27,1,11.3,3.3,4,7,0,0,0
+CUST00266,35,Female,Hyderabad,Beauty & Personal Care,Website,UPI,Gold,1337.33,1,19.3,3.4,37,3,0,1,0
+CUST00267,48,Male,Pune,Books,Online App,Net Banking,Gold,563.35,0,0.0,4.9,44,12,1,0,0
+CUST00268,56,Female,Bhopal,Sports & Fitness,In-Store,Net Banking,Silver,2250.37,1,17.6,4.7,40,6,1,0,0
+CUST00269,46,Male,Delhi,Grocery,Online App,Debit Card,Bronze,1001.74,1,24.7,2.7,7,7,0,1,0
+CUST00270,43,Female,Kolkata,Electronics,Online App,Debit Card,Bronze,5441.54,1,24.5,5.0,54,8,0,0,0
+CUST00271,53,Female,Kolkata,Beauty & Personal Care,Website,Cash on Delivery,Silver,1466.29,0,0.0,3.5,1,6,1,0,0
+CUST00272,32,Female,Kolkata,Electronics,Online App,Credit Card,Bronze,4200.36,0,0.0,4.1,60,7,0,0,0
+CUST00273,31,Female,Ahmedabad,Electronics,Online App,Net Banking,Bronze,3627.67,0,0.0,4.2,125,2,0,0,1
+CUST00274,37,Female,Delhi,Books,In-Store,Credit Card,Silver,418.18,1,16.6,2.5,14,3,0,0,0
+CUST00275,33,Female,Bangalore,Apparel,Website,Net Banking,Bronze,1430.13,1,35.9,4.7,17,3,0,0,0
+CUST00276,26,Male,Hyderabad,Apparel,Online App,UPI,Silver,981.06,1,23.8,4.1,10,5,0,0,0
+CUST00277,40,Male,Pune,Books,In-Store,Cash on Delivery,Platinum,150.0,0,0.0,3.6,39,5,0,0,0
+CUST00278,37,Male,Chennai,Home & Kitchen,In-Store,Cash on Delivery,Bronze,3005.54,1,33.0,3.4,2,12,1,0,0
+CUST00279,52,Male,Chennai,Electronics,Online App,UPI,Bronze,4365.46,1,22.9,1.0,81,6,0,0,0
+CUST00280,18,Female,Kolkata,Apparel,Website,Cash on Delivery,Silver,2113.99,1,40.0,5.0,30,6,0,0,0
+CUST00281,24,Male,Bangalore,Home & Kitchen,In-Store,Cash on Delivery,Bronze,1570.76,0,0.0,4.3,15,7,0,0,0
+CUST00282,29,Female,Bhopal,Sports & Fitness,Website,Net Banking,Silver,2089.12,0,0.0,4.3,8,5,0,0,0
+CUST00283,37,Male,Jaipur,Electronics,Website,Credit Card,Bronze,5175.39,0,0.0,5.0,7,5,0,0,0
+CUST00284,41,Female,Jaipur,Books,Website,Net Banking,Silver,331.88,0,0.0,3.2,107,8,0,1,0
+CUST00285,29,Female,Bhopal,Grocery,Website,Net Banking,Silver,807.24,1,8.6,4.0,42,4,0,1,0
+CUST00286,18,Female,Mumbai,Beauty & Personal Care,Online App,UPI,Silver,1331.87,1,32.1,3.7,7,3,0,1,0
+CUST00287,36,Female,Jaipur,Books,Online App,Cash on Delivery,Bronze,289.17,0,0.0,3.2,21,7,0,0,0
+CUST00288,27,Female,Bhopal,Home & Kitchen,Website,Credit Card,Bronze,1636.81,1,15.1,3.8,0,5,0,1,0
+CUST00289,39,Male,Bangalore,Grocery,Website,UPI,Platinum,754.84,1,9.4,4.5,51,8,0,0,0
+CUST00290,18,Female,Hyderabad,Grocery,In-Store,Net Banking,Silver,945.29,1,14.4,5.0,207,4,0,0,0
+CUST00291,28,Male,Kolkata,Sports & Fitness,Website,Debit Card,Silver,968.62,0,0.0,2.9,154,11,0,1,1
+CUST00292,37,Male,Ahmedabad,Books,Website,Debit Card,Gold,564.38,1,18.9,2.9,23,8,1,1,0
+CUST00293,47,Female,Pune,Home & Kitchen,In-Store,Debit Card,Silver,1972.21,0,0.0,4.2,34,5,0,1,0
+CUST00294,27,Male,Mumbai,Electronics,Website,Net Banking,Bronze,6140.45,1,10.5,4.0,18,9,0,1,0
+CUST00295,32,Female,Hyderabad,Books,In-Store,Debit Card,Bronze,466.81,1,14.6,2.9,5,5,0,0,1
+CUST00296,60,Female,Bangalore,Electronics,Online App,Debit Card,Gold,2786.55,1,20.0,4.0,8,9,0,0,0
+CUST00297,29,Male,Ahmedabad,Electronics,Online App,Credit Card,Silver,7897.84,0,0.0,4.4,13,8,0,0,0
+CUST00298,19,Male,Kolkata,Books,Online App,UPI,Bronze,437.71,0,0.0,3.1,29,8,0,0,0
+CUST00299,36,Female,Pune,Apparel,Online App,Credit Card,Silver,1415.62,1,7.4,3.4,29,6,0,1,0
+CUST00300,34,Male,Ahmedabad,Home & Kitchen,Website,Credit Card,Platinum,2434.67,1,20.5,3.1,125,7,0,1,0
+CUST00301,28,Male,Delhi,Sports & Fitness,Website,Debit Card,Platinum,1592.07,0,0.0,2.9,50,4,0,0,0
+CUST00302,18,Male,Hyderabad,Sports & Fitness,Website,Cash on Delivery,Bronze,1732.76,1,5.9,3.4,8,12,0,1,0
+CUST00303,55,Male,Bhopal,Sports & Fitness,Website,Net Banking,Bronze,2052.68,0,0.0,5.0,78,7,1,1,0
+CUST00304,28,Female,Kolkata,Electronics,Online App,Cash on Delivery,Bronze,8730.37,1,5.4,1.5,16,3,0,0,0
+CUST00305,50,Female,Jaipur,Beauty & Personal Care,Online App,Credit Card,Gold,650.83,1,32.0,5.0,73,5,0,0,0
+CUST00306,21,Female,Hyderabad,Electronics,In-Store,Net Banking,Silver,6808.25,1,22.5,4.9,5,6,0,1,0
+CUST00307,30,Male,Bhopal,Sports & Fitness,Website,Debit Card,Bronze,929.18,0,0.0,4.3,3,2,1,1,1
+CUST00308,36,Male,Bhopal,Home & Kitchen,Online App,UPI,Bronze,1203.25,0,0.0,4.2,11,4,1,0,0
+CUST00309,32,Male,Delhi,Beauty & Personal Care,Online App,Cash on Delivery,Silver,1166.28,0,0.0,2.2,1,3,0,1,0
+CUST00310,48,Male,Mumbai,Books,Online App,UPI,Bronze,150.0,1,23.3,5.0,163,7,0,1,1
+CUST00311,38,Male,Chennai,Apparel,Website,Debit Card,Gold,1425.62,0,0.0,3.3,76,5,1,0,0
+CUST00312,26,Female,Pune,Sports & Fitness,Online App,Cash on Delivery,Silver,150.0,0,0.0,3.6,18,6,0,0,0
+CUST00313,25,Male,Chennai,Apparel,Online App,UPI,Gold,554.12,1,9.0,5.0,2,3,0,0,0
+CUST00314,24,Male,Hyderabad,Electronics,Website,Net Banking,Platinum,5442.11,0,0.0,3.6,101,7,1,0,0
+CUST00315,39,Female,Hyderabad,Home & Kitchen,Online App,Debit Card,Bronze,1587.64,0,0.0,5.0,14,9,0,0,0
+CUST00316,21,Male,Bangalore,Apparel,In-Store,UPI,Platinum,569.21,0,0.0,5.0,25,9,0,0,0
+CUST00317,41,Female,Chennai,Electronics,Website,UPI,Bronze,3196.36,0,0.0,4.4,4,9,0,1,0
+CUST00318,29,Male,Ahmedabad,Home & Kitchen,Website,Net Banking,Platinum,3007.81,1,30.6,3.2,11,5,0,1,0
+CUST00319,45,Male,Mumbai,Beauty & Personal Care,Online App,Cash on Delivery,Bronze,1017.16,1,35.7,3.6,118,2,1,0,1
+CUST00320,18,Female,Pune,Electronics,Online App,Credit Card,Silver,2572.47,1,39.0,5.0,35,4,0,0,0
+CUST00321,51,Male,Hyderabad,Grocery,Website,Debit Card,Silver,1246.32,1,25.3,3.2,4,6,0,1,0
+CUST00322,34,Female,Delhi,Sports & Fitness,Website,Net Banking,Silver,2234.34,0,0.0,4.2,70,4,0,1,0
+CUST00323,41,Female,Chennai,Home & Kitchen,Website,Credit Card,Bronze,1198.84,0,0.0,5.0,0,6,0,0,0
+CUST00324,53,Male,Delhi,Apparel,Online App,Debit Card,Silver,1311.09,0,0.0,4.5,4,4,1,0,0
+CUST00325,19,Female,Ahmedabad,Home & Kitchen,In-Store,UPI,Bronze,1533.09,1,33.9,3.9,85,7,0,0,0
+CUST00326,30,Female,Bangalore,Electronics,Website,Debit Card,Bronze,3990.8,0,0.0,3.3,4,9,0,1,0
+CUST00327,47,Male,Mumbai,Beauty & Personal Care,In-Store,Cash on Delivery,Gold,1311.07,0,0.0,3.2,45,9,0,1,0
+CUST00328,29,Male,Delhi,Electronics,Online App,Credit Card,Bronze,3672.81,1,18.0,2.3,43,4,0,1,1
+CUST00329,46,Female,Delhi,Electronics,In-Store,Credit Card,Platinum,8676.07,0,0.0,4.1,35,5,0,1,0
+CUST00330,24,Female,Delhi,Electronics,In-Store,UPI,Bronze,6144.79,1,33.8,2.5,102,9,0,0,1
+CUST00331,22,Female,Bangalore,Home & Kitchen,Online App,Credit Card,Bronze,3282.4,0,0.0,3.0,63,7,0,1,0
+CUST00332,51,Male,Pune,Beauty & Personal Care,Online App,Cash on Delivery,Silver,928.29,0,0.0,2.0,7,7,0,0,0
+CUST00333,26,Male,Bhopal,Grocery,Online App,Net Banking,Gold,1246.91,0,0.0,3.4,75,8,0,0,0
+CUST00334,35,Female,Kolkata,Home & Kitchen,Online App,Debit Card,Silver,1216.38,0,0.0,3.6,59,5,0,0,0
+CUST00335,36,Female,Bhopal,Home & Kitchen,Website,Credit Card,Platinum,3423.84,0,0.0,4.0,107,4,0,0,1
+CUST00336,25,Male,Hyderabad,Sports & Fitness,In-Store,Net Banking,Bronze,2164.02,1,34.6,5.0,79,7,0,0,0
+CUST00337,38,Female,Jaipur,Electronics,Website,Debit Card,Platinum,150.0,1,24.7,4.5,50,5,0,1,0
+CUST00338,35,Female,Bhopal,Home & Kitchen,Online App,UPI,Bronze,1606.06,0,0.0,3.5,26,6,0,0,0
+CUST00339,37,Male,Chennai,Sports & Fitness,Online App,Credit Card,Bronze,2670.01,0,0.0,4.9,36,11,0,1,0
+CUST00340,27,Male,Mumbai,Apparel,Website,Credit Card,Gold,1872.19,1,35.1,4.4,33,4,1,0,0
+CUST00341,28,Female,Jaipur,Electronics,Online App,Debit Card,Bronze,2240.76,0,0.0,3.8,32,5,1,1,0
+CUST00342,27,Female,Chennai,Apparel,Website,Cash on Delivery,Silver,2013.95,1,32.5,5.0,94,4,0,0,0
+CUST00343,57,Male,Kolkata,Home & Kitchen,Website,Debit Card,Bronze,2724.83,1,38.2,3.5,3,3,1,0,0
+CUST00344,43,Male,Bangalore,Sports & Fitness,Online App,Cash on Delivery,Bronze,2029.8,1,37.8,4.0,6,3,0,1,0
+CUST00345,21,Male,Chennai,Home & Kitchen,Online App,UPI,Gold,3757.75,1,30.5,1.5,1,5,0,0,0
+CUST00346,30,Male,Hyderabad,Books,Online App,Debit Card,Gold,199.11,1,6.7,3.4,4,6,0,0,0
+CUST00347,46,Male,Kolkata,Beauty & Personal Care,In-Store,Debit Card,Silver,674.17,0,0.0,3.9,11,7,0,1,0
+CUST00348,34,Male,Bangalore,Beauty & Personal Care,Online App,UPI,Bronze,1056.52,0,0.0,4.3,90,3,1,0,0
+CUST00349,39,Male,Kolkata,Apparel,Website,Cash on Delivery,Platinum,150.0,1,16.8,3.0,6,9,1,1,0
+CUST00350,51,Male,Kolkata,Books,Online App,Net Banking,Bronze,719.54,0,0.0,5.0,7,5,0,0,0
+CUST00351,37,Female,Pune,Home & Kitchen,Online App,UPI,Bronze,3476.88,0,0.0,4.7,37,7,0,0,0
+CUST00352,22,Male,Kolkata,Electronics,Online App,Cash on Delivery,Silver,1187.86,0,0.0,3.9,59,3,0,1,0
+CUST00353,36,Male,Ahmedabad,Grocery,Online App,Net Banking,Silver,488.11,1,14.3,1.9,33,4,0,0,0
+CUST00354,47,Female,Kolkata,Home & Kitchen,Online App,UPI,Bronze,3302.72,0,0.0,4.3,25,6,0,0,0
+CUST00355,57,Male,Bangalore,Grocery,Website,UPI,Bronze,1072.77,0,0.0,5.0,3,3,0,1,0
+CUST00356,20,Male,Bhopal,Electronics,In-Store,Cash on Delivery,Silver,6731.25,0,0.0,3.5,0,5,0,0,0
+CUST00357,59,Male,Ahmedabad,Home & Kitchen,Online App,UPI,Silver,898.09,1,33.0,5.0,120,5,0,1,1
+CUST00358,46,Male,Ahmedabad,Apparel,In-Store,Credit Card,Platinum,804.51,1,9.4,3.3,6,8,0,1,0
+CUST00359,40,Female,Hyderabad,Grocery,Website,Cash on Delivery,Bronze,752.51,1,37.0,4.8,65,7,0,0,0
+CUST00360,26,Female,Bhopal,Home & Kitchen,In-Store,Cash on Delivery,Silver,1595.24,1,32.5,2.3,46,7,0,0,0
+CUST00361,18,Female,Delhi,Beauty & Personal Care,Online App,Cash on Delivery,Silver,483.49,1,37.9,3.9,5,8,1,0,0
+CUST00362,25,Male,Pune,Grocery,Website,Debit Card,Gold,741.82,0,0.0,4.2,18,7,0,0,0
+CUST00363,47,Female,Mumbai,Apparel,Online App,Credit Card,Silver,596.22,1,19.1,4.6,131,8,0,1,0
+CUST00364,40,Male,Mumbai,Books,Website,Debit Card,Gold,413.33,0,0.0,5.0,85,6,0,0,0
+CUST00365,48,Female,Ahmedabad,Grocery,Website,UPI,Platinum,657.52,0,0.0,4.4,5,9,0,1,0
+CUST00366,43,Female,Pune,Books,Online App,UPI,Bronze,641.73,0,0.0,5.0,14,6,0,1,0
+CUST00367,33,Female,Mumbai,Sports & Fitness,Website,UPI,Bronze,1959.46,0,0.0,2.7,33,7,0,1,1
+CUST00368,20,Male,Bangalore,Apparel,In-Store,Credit Card,Gold,454.35,0,0.0,5.0,24,8,0,1,0
+CUST00369,42,Male,Pune,Home & Kitchen,In-Store,Cash on Delivery,Bronze,2092.59,1,28.8,3.5,10,2,0,0,1
+CUST00370,32,Female,Bangalore,Grocery,Website,Cash on Delivery,Bronze,834.07,0,0.0,4.5,8,4,1,1,0
+CUST00371,18,Male,Pune,Electronics,Online App,Credit Card,Gold,4821.26,1,12.5,5.0,57,3,0,0,0
+CUST00372,18,Male,Pune,Books,Online App,UPI,Gold,675.51,1,28.9,3.5,18,5,0,0,0
+CUST00373,37,Male,Jaipur,Grocery,Online App,Debit Card,Silver,693.76,1,29.9,4.2,63,7,0,0,0
+CUST00374,33,Female,Chennai,Beauty & Personal Care,Online App,Net Banking,Bronze,1139.29,0,0.0,3.4,18,1,0,0,1
+CUST00375,25,Male,Bhopal,Books,In-Store,Debit Card,Silver,313.25,1,14.9,2.3,24,7,0,0,0
+CUST00376,39,Female,Pune,Books,Online App,Debit Card,Bronze,262.34,1,36.2,2.8,8,4,0,0,1
+CUST00377,39,Male,Mumbai,Grocery,In-Store,Cash on Delivery,Silver,569.01,0,0.0,3.2,139,4,0,0,1
+CUST00378,34,Female,Pune,Home & Kitchen,In-Store,Net Banking,Bronze,2055.39,0,0.0,4.1,15,6,0,0,0
+CUST00379,49,Male,Chennai,Books,Website,Cash on Delivery,Silver,452.94,0,0.0,4.6,7,4,1,0,0
+CUST00380,48,Female,Bangalore,Grocery,Website,Cash on Delivery,Bronze,592.81,0,0.0,3.8,8,6,0,0,0
+CUST00381,47,Male,Chennai,Books,Online App,Debit Card,Bronze,184.31,1,19.7,3.6,125,7,1,0,1
+CUST00382,30,Female,Ahmedabad,Grocery,Online App,UPI,Gold,783.33,1,38.1,2.9,75,3,0,1,0
+CUST00383,47,Male,Kolkata,Sports & Fitness,Online App,UPI,Gold,3005.21,0,0.0,3.0,78,4,1,0,0
+CUST00384,49,Female,Bangalore,Home & Kitchen,In-Store,Credit Card,Gold,3340.54,0,0.0,2.9,1,4,0,0,0
+CUST00385,28,Male,Mumbai,Beauty & Personal Care,Online App,Credit Card,Silver,804.95,0,0.0,2.9,16,9,0,1,0
+CUST00386,33,Male,Jaipur,Beauty & Personal Care,Website,Net Banking,Silver,811.35,0,0.0,4.4,20,7,0,0,0
+CUST00387,42,Female,Mumbai,Home & Kitchen,Website,Cash on Delivery,Bronze,1467.22,1,26.9,3.8,18,11,0,1,0
+CUST00388,42,Female,Pune,Apparel,Online App,Cash on Delivery,Silver,1276.63,0,0.0,4.4,60,6,0,0,0
+CUST00389,48,Female,Ahmedabad,Books,Website,Cash on Delivery,Bronze,196.77,1,39.8,4.4,35,8,0,1,0
+CUST00390,25,Female,Hyderabad,Apparel,In-Store,Net Banking,Bronze,1228.69,0,0.0,4.8,55,4,1,0,0
+CUST00391,44,Male,Jaipur,Sports & Fitness,Online App,Debit Card,Gold,2132.99,1,18.1,2.8,58,9,0,1,0
+CUST00392,35,Male,Jaipur,Electronics,Website,UPI,Bronze,5182.48,0,0.0,5.0,22,7,0,0,0
+CUST00393,39,Female,Ahmedabad,Books,Online App,UPI,Bronze,299.83,1,28.2,5.0,9,3,0,1,0
+CUST00394,40,Male,Kolkata,Grocery,In-Store,Cash on Delivery,Gold,495.14,0,0.0,5.0,137,6,0,0,0
+CUST00395,61,Male,Jaipur,Apparel,Website,Cash on Delivery,Platinum,1801.26,0,0.0,2.9,21,11,0,0,0
+CUST00396,37,Female,Hyderabad,Books,In-Store,Debit Card,Bronze,195.79,0,0.0,4.0,73,4,0,0,0
+CUST00397,18,Female,Bangalore,Electronics,Website,UPI,Gold,5851.98,0,0.0,2.0,60,4,0,0,0
+CUST00398,34,Female,Pune,Beauty & Personal Care,Online App,Credit Card,Gold,861.8,1,17.6,5.0,4,6,0,0,0
+CUST00399,28,Male,Delhi,Grocery,Website,UPI,Bronze,877.33,0,0.0,3.9,65,3,0,0,0
+CUST00400,18,Female,Jaipur,Home & Kitchen,In-Store,UPI,Bronze,2130.42,0,0.0,3.4,83,3,0,0,0
+CUST00401,18,Female,Pune,Grocery,Online App,Net Banking,Gold,919.41,1,32.9,3.3,20,9,0,1,0
+CUST00402,30,Male,Bangalore,Electronics,Online App,Cash on Delivery,Silver,3043.11,1,20.3,4.8,17,6,0,1,0
+CUST00403,36,Male,Bangalore,Beauty & Personal Care,In-Store,UPI,Gold,1312.11,0,0.0,3.1,0,7,0,1,0
+CUST00404,34,Male,Bhopal,Grocery,Website,Cash on Delivery,Bronze,559.65,1,35.6,5.0,95,7,0,1,1
+CUST00405,23,Male,Kolkata,Books,Website,Net Banking,Bronze,346.33,1,18.5,3.8,11,4,0,0,0
+CUST00406,51,Male,Mumbai,Books,In-Store,Cash on Delivery,Gold,380.1,1,35.4,3.6,10,4,0,0,0
+CUST00407,34,Male,Chennai,Home & Kitchen,Online App,Credit Card,Silver,2257.51,0,0.0,4.0,110,9,0,0,0
+CUST00408,24,Female,Jaipur,Beauty & Personal Care,Online App,Net Banking,Silver,1266.37,0,0.0,4.6,119,5,0,1,0
+CUST00409,47,Male,Kolkata,Beauty & Personal Care,Online App,Cash on Delivery,Bronze,722.47,0,0.0,4.8,8,8,0,1,0
+CUST00410,31,Female,Bhopal,Sports & Fitness,Online App,Net Banking,Platinum,1625.26,0,0.0,2.2,8,5,0,0,0
+CUST00411,24,Female,Chennai,Sports & Fitness,Website,Cash on Delivery,Silver,3095.08,1,30.1,3.2,31,3,0,1,0
+CUST00412,52,Male,Mumbai,Home & Kitchen,Online App,Debit Card,Silver,2150.79,0,0.0,4.2,31,10,0,1,0
+CUST00413,25,Female,Bangalore,Grocery,Website,Net Banking,Bronze,690.33,1,11.6,1.9,94,6,1,0,1
+CUST00414,48,Female,Hyderabad,Books,Online App,Net Banking,Bronze,372.1,1,28.5,4.6,9,5,0,1,0
+CUST00415,32,Female,Jaipur,Sports & Fitness,Online App,Net Banking,Bronze,2153.88,1,24.4,3.9,8,5,0,0,0
+CUST00416,37,Male,Jaipur,Apparel,Website,Credit Card,Bronze,793.75,1,26.2,3.4,1,2,0,1,1
+CUST00417,19,Female,Jaipur,Books,Website,Debit Card,Bronze,798.19,0,0.0,3.8,34,10,0,1,0
+CUST00418,44,Male,Kolkata,Sports & Fitness,Website,Cash on Delivery,Bronze,1975.43,1,35.1,2.9,14,5,0,1,0
+CUST00419,39,Male,Hyderabad,Apparel,Website,Debit Card,Silver,150.0,1,9.6,3.1,4,6,0,1,0
+CUST00420,21,Male,Bhopal,Sports & Fitness,Website,Debit Card,Gold,1569.27,1,24.7,3.9,13,8,0,1,0
+CUST00421,33,Female,Bhopal,Home & Kitchen,In-Store,Net Banking,Gold,3237.09,0,0.0,2.7,35,8,0,0,0
+CUST00422,39,Male,Hyderabad,Home & Kitchen,Website,Credit Card,Platinum,2125.36,1,10.1,5.0,71,6,0,1,0
+CUST00423,35,Male,Bhopal,Electronics,Online App,Net Banking,Bronze,8453.2,1,30.9,4.3,38,7,0,1,0
+CUST00424,33,Female,Hyderabad,Sports & Fitness,Website,Debit Card,Silver,2518.3,0,0.0,3.6,12,10,0,0,0
+CUST00425,18,Female,Bhopal,Electronics,Online App,Debit Card,Bronze,2302.06,1,35.1,3.8,17,7,0,0,0
+CUST00426,18,Female,Jaipur,Sports & Fitness,Website,Credit Card,Gold,2347.14,1,15.3,5.0,4,6,0,1,0
+CUST00427,18,Male,Bangalore,Books,Website,Net Banking,Bronze,412.48,0,0.0,5.0,35,3,0,0,0
+CUST00428,18,Female,Mumbai,Home & Kitchen,Website,Credit Card,Bronze,1342.77,1,25.9,4.5,20,6,0,1,0
+CUST00429,50,Female,Ahmedabad,Grocery,Website,Debit Card,Bronze,709.16,1,23.4,4.0,20,4,1,0,0
+CUST00430,35,Male,Kolkata,Sports & Fitness,Website,UPI,Bronze,2678.6,1,28.2,2.9,65,8,0,0,1
+CUST00431,38,Female,Bhopal,Grocery,Website,UPI,Bronze,1135.93,0,0.0,3.7,18,6,0,1,0
+CUST00432,18,Male,Mumbai,Books,In-Store,Net Banking,Platinum,280.73,1,18.5,3.4,31,7,0,0,0
+CUST00433,40,Female,Bhopal,Grocery,Website,Net Banking,Bronze,890.46,1,11.7,4.2,80,5,0,1,0
+CUST00434,24,Male,Bhopal,Sports & Fitness,Online App,UPI,Bronze,545.6,1,12.5,3.4,35,4,0,1,0
+CUST00435,34,Male,Bhopal,Grocery,Website,Net Banking,Silver,995.1,1,31.1,3.0,47,5,0,0,0
+CUST00436,33,Female,Mumbai,Electronics,Online App,Credit Card,Gold,3768.76,1,25.1,3.3,21,8,0,0,0
+CUST00437,24,Female,Ahmedabad,Books,Online App,Debit Card,Bronze,276.44,1,23.7,4.9,81,7,0,1,0
+CUST00438,44,Male,Delhi,Home & Kitchen,In-Store,UPI,Bronze,2089.85,1,26.2,4.7,1,5,0,1,0
+CUST00439,36,Female,Kolkata,Grocery,Website,Net Banking,Bronze,870.49,0,0.0,4.1,3,8,0,1,0
+CUST00440,18,Female,Bangalore,Home & Kitchen,Website,Debit Card,Platinum,1916.65,0,0.0,4.0,40,7,0,0,0
+CUST00441,37,Male,Mumbai,Sports & Fitness,Website,Cash on Delivery,Silver,663.35,0,0.0,3.7,18,5,0,1,0
+CUST00442,46,Female,Hyderabad,Beauty & Personal Care,In-Store,Cash on Delivery,Bronze,944.66,0,0.0,3.3,82,1,0,0,1
+CUST00443,28,Male,Bangalore,Books,Website,UPI,Gold,628.73,1,39.8,4.9,14,6,0,0,0
+CUST00444,18,Female,Delhi,Home & Kitchen,Online App,Cash on Delivery,Silver,2948.07,0,0.0,4.3,148,7,0,1,1
+CUST00445,28,Male,Pune,Sports & Fitness,Online App,Credit Card,Bronze,2344.73,0,0.0,2.6,142,3,0,0,1
+CUST00446,45,Male,Jaipur,Sports & Fitness,Online App,Debit Card,Platinum,1775.57,0,0.0,2.5,110,5,0,1,1
+CUST00447,27,Female,Pune,Grocery,Online App,Debit Card,Gold,571.58,0,0.0,4.7,63,6,0,0,0
+CUST00448,52,Male,Bangalore,Books,Website,Debit Card,Gold,506.57,0,0.0,3.7,13,9,0,0,0
+CUST00449,27,Male,Delhi,Electronics,In-Store,UPI,Gold,4002.32,1,31.9,5.0,6,3,0,0,0
+CUST00450,30,Female,Bhopal,Sports & Fitness,Website,Credit Card,Bronze,2769.58,0,0.0,2.8,34,5,0,1,1
+CUST00451,47,Female,Bangalore,Beauty & Personal Care,Website,UPI,Bronze,991.66,0,0.0,4.9,175,8,0,1,1
+CUST00452,47,Male,Bhopal,Apparel,Online App,Credit Card,Silver,325.88,1,35.5,3.4,64,6,0,1,0
+CUST00453,36,Female,Mumbai,Apparel,Website,Credit Card,Bronze,1545.97,0,0.0,3.0,57,3,0,0,0
+CUST00454,43,Female,Kolkata,Beauty & Personal Care,In-Store,UPI,Bronze,1151.72,1,8.6,2.8,23,2,1,1,1
+CUST00455,42,Female,Pune,Sports & Fitness,Website,Credit Card,Bronze,1389.14,0,0.0,4.7,151,7,0,1,1
+CUST00456,20,Male,Bhopal,Home & Kitchen,Online App,Credit Card,Silver,2911.85,0,0.0,3.4,21,5,0,0,0
+CUST00457,27,Female,Jaipur,Electronics,Website,Credit Card,Silver,5996.91,0,0.0,4.1,118,8,0,0,0
+CUST00458,23,Male,Bangalore,Apparel,Online App,UPI,Silver,1268.57,0,0.0,3.9,28,9,0,0,0
+CUST00459,25,Female,Ahmedabad,Apparel,Website,Net Banking,Bronze,878.49,0,0.0,3.1,31,7,0,0,0
+CUST00460,46,Male,Jaipur,Apparel,Online App,Debit Card,Platinum,637.82,0,0.0,5.0,32,2,0,1,0
+CUST00461,24,Male,Pune,Electronics,Online App,Cash on Delivery,Platinum,5889.23,1,11.0,4.2,10,8,0,1,0
+CUST00462,47,Male,Jaipur,Books,Website,Credit Card,Gold,186.35,0,0.0,5.0,244,9,0,0,0
+CUST00463,37,Male,Kolkata,Beauty & Personal Care,Online App,UPI,Bronze,837.81,1,22.7,4.2,34,4,0,0,0
+CUST00464,32,Male,Bangalore,Beauty & Personal Care,In-Store,Cash on Delivery,Bronze,1433.51,1,22.6,3.6,11,6,0,0,0
+CUST00465,20,Male,Jaipur,Sports & Fitness,In-Store,Net Banking,Silver,2489.44,0,0.0,3.1,151,8,0,0,0
+CUST00466,36,Male,Ahmedabad,Grocery,Website,Debit Card,Silver,1111.89,1,31.7,3.3,51,4,0,0,0
+CUST00467,20,Male,Pune,Beauty & Personal Care,Website,UPI,Bronze,450.97,1,19.3,3.6,7,5,0,1,0
+CUST00468,36,Male,Jaipur,Sports & Fitness,Online App,UPI,Bronze,1513.13,0,0.0,5.0,132,9,0,0,1
+CUST00469,28,Male,Bangalore,Beauty & Personal Care,Website,Debit Card,Bronze,1176.93,0,0.0,4.0,38,3,0,1,0
+CUST00470,21,Female,Hyderabad,Beauty & Personal Care,Website,Cash on Delivery,Silver,913.55,0,0.0,3.7,121,4,0,0,0
+CUST00471,36,Female,Jaipur,Home & Kitchen,Website,Net Banking,Gold,1770.14,1,28.1,5.0,29,5,0,0,0
+CUST00472,34,Male,Delhi,Apparel,Website,Debit Card,Gold,820.38,1,29.0,3.9,44,8,0,0,0
+CUST00473,32,Male,Delhi,Grocery,Online App,Cash on Delivery,Silver,468.58,0,0.0,4.4,6,6,0,0,0
+CUST00474,29,Male,Kolkata,Beauty & Personal Care,Website,Cash on Delivery,Bronze,1141.9,1,7.0,4.2,6,6,0,0,0
+CUST00475,48,Female,Ahmedabad,Electronics,Online App,Cash on Delivery,Bronze,4547.8,0,0.0,3.9,135,9,0,0,1
+CUST00476,42,Male,Jaipur,Apparel,Website,Debit Card,Bronze,477.46,0,0.0,4.3,71,5,0,1,0
+CUST00477,18,Female,Chennai,Books,Online App,Cash on Delivery,Bronze,380.58,0,0.0,3.9,35,6,0,1,0
+CUST00478,32,Female,Bhopal,Sports & Fitness,Online App,Debit Card,Bronze,1267.9,1,20.9,4.5,55,3,0,0,0
+CUST00479,41,Male,Kolkata,Sports & Fitness,Online App,UPI,Silver,1221.16,0,0.0,4.2,19,5,0,0,0
+CUST00480,31,Female,Bhopal,Grocery,Website,Debit Card,Silver,682.46,1,24.7,4.1,115,7,0,1,0
+CUST00481,40,Female,Ahmedabad,Sports & Fitness,In-Store,Net Banking,Bronze,2246.21,0,0.0,2.2,7,5,0,1,0
+CUST00482,35,Male,Chennai,Beauty & Personal Care,In-Store,Cash on Delivery,Silver,1146.81,1,14.2,3.8,45,6,0,0,0
+CUST00483,59,Female,Delhi,Sports & Fitness,In-Store,Net Banking,Bronze,1630.1,0,0.0,4.0,34,2,0,0,0
+CUST00484,40,Male,Ahmedabad,Books,Online App,Credit Card,Gold,606.73,0,0.0,4.8,6,5,0,0,0
+CUST00485,36,Female,Bangalore,Grocery,Online App,UPI,Silver,689.83,1,26.5,4.0,2,6,0,0,0
+CUST00486,28,Male,Ahmedabad,Home & Kitchen,Website,Net Banking,Gold,1922.62,1,25.1,3.7,157,4,0,0,0
+CUST00487,44,Female,Kolkata,Apparel,Website,Credit Card,Bronze,1859.48,1,21.7,3.1,12,6,0,0,0
+CUST00488,39,Female,Bangalore,Beauty & Personal Care,In-Store,Cash on Delivery,Silver,535.31,1,5.4,2.4,2,6,0,0,0
+CUST00489,22,Female,Chennai,Sports & Fitness,In-Store,Credit Card,Silver,1531.25,0,0.0,4.5,9,5,0,1,0
+CUST00490,44,Female,Bangalore,Beauty & Personal Care,Online App,Net Banking,Gold,1197.76,0,0.0,4.0,36,8,0,0,0
+CUST00491,43,Male,Jaipur,Apparel,In-Store,Credit Card,Gold,1588.78,1,33.1,2.9,71,4,0,1,0
+CUST00492,38,Male,Bangalore,Grocery,In-Store,Credit Card,Silver,1007.03,0,0.0,1.9,43,5,0,0,0
+CUST00493,34,Female,Ahmedabad,Home & Kitchen,Online App,Cash on Delivery,Bronze,3282.39,0,0.0,4.8,19,6,0,0,0
+CUST00494,18,Female,Ahmedabad,Grocery,Website,Net Banking,Gold,836.9,0,0.0,3.5,37,8,0,0,0
+CUST00495,32,Female,Chennai,Electronics,Online App,Debit Card,Gold,5056.29,1,12.0,3.3,58,8,0,1,0
+CUST00496,31,Male,Pune,Home & Kitchen,Online App,Cash on Delivery,Silver,1750.59,1,36.1,4.9,33,7,0,0,0
+CUST00497,67,Male,Bangalore,Books,In-Store,Debit Card,Silver,562.79,1,19.2,3.3,9,4,1,0,0
+CUST00498,31,Female,Hyderabad,Home & Kitchen,Online App,Debit Card,Gold,2826.04,1,18.8,5.0,12,5,1,1,0
+CUST00499,45,Female,Jaipur,Sports & Fitness,In-Store,Net Banking,Bronze,2151.2,1,9.4,3.2,14,4,0,0,0
+CUST00500,32,Male,Hyderabad,Apparel,Online App,UPI,Bronze,1577.91,1,24.2,4.0,155,6,0,0,1
+CUST00501,59,Male,Delhi,Home & Kitchen,Website,UPI,Silver,1113.63,1,15.8,3.0,31,6,0,0,0
+CUST00502,29,Male,Bangalore,Sports & Fitness,In-Store,UPI,Bronze,1967.39,0,0.0,4.7,33,3,1,1,0
+CUST00503,24,Female,Bhopal,Home & Kitchen,Website,Credit Card,Platinum,3047.16,1,11.2,3.1,24,10,0,1,0
+CUST00504,35,Female,Bhopal,Books,Website,Debit Card,Platinum,231.02,0,0.0,2.9,32,5,0,0,0
+CUST00505,42,Female,Chennai,Beauty & Personal Care,Online App,Debit Card,Bronze,826.24,0,0.0,3.9,200,4,0,0,1
+CUST00506,51,Female,Ahmedabad,Sports & Fitness,Online App,Net Banking,Platinum,1243.86,0,0.0,4.7,40,8,0,0,0
+CUST00507,44,Female,Jaipur,Apparel,Website,Cash on Delivery,Bronze,2315.84,0,0.0,3.9,2,9,0,0,0
+CUST00508,39,Male,Kolkata,Grocery,Online App,Debit Card,Bronze,948.96,1,23.1,2.9,133,4,0,1,1
+CUST00509,41,Female,Pune,Books,Website,Debit Card,Silver,664.33,1,11.4,4.3,156,6,0,1,0
+CUST00510,45,Female,Pune,Books,Website,Credit Card,Bronze,442.82,0,0.0,2.6,135,6,1,0,1
+CUST00511,30,Male,Pune,Home & Kitchen,Online App,Net Banking,Gold,1375.34,0,0.0,3.3,3,2,0,0,0
+CUST00512,40,Female,Kolkata,Home & Kitchen,Website,Net Banking,Platinum,2331.65,0,0.0,4.0,86,6,0,0,0
+CUST00513,29,Male,Mumbai,Home & Kitchen,Website,UPI,Silver,1708.88,0,0.0,4.5,9,2,1,0,0
+CUST00514,27,Female,Mumbai,Electronics,In-Store,Credit Card,Bronze,6360.99,1,13.7,3.5,36,3,1,0,0
+CUST00515,42,Male,Bhopal,Books,In-Store,Net Banking,Bronze,508.6,1,37.8,5.0,9,7,0,1,0
+CUST00516,24,Male,Pune,Beauty & Personal Care,Website,Credit Card,Bronze,998.28,0,0.0,2.0,39,3,0,1,0
+CUST00517,25,Male,Kolkata,Home & Kitchen,Online App,Debit Card,Silver,1207.3,0,0.0,4.2,7,6,0,1,0
+CUST00518,19,Female,Jaipur,Apparel,Online App,UPI,Bronze,1420.83,0,0.0,4.1,14,8,0,0,0
+CUST00519,40,Male,Mumbai,Home & Kitchen,Website,Cash on Delivery,Gold,1679.67,0,0.0,2.2,21,7,0,1,0
+CUST00520,29,Female,Ahmedabad,Books,Online App,Net Banking,Bronze,658.77,0,0.0,3.4,33,4,1,0,0
+CUST00521,25,Female,Bhopal,Home & Kitchen,Website,Net Banking,Bronze,2913.56,0,0.0,3.1,20,7,0,1,0
+CUST00522,41,Female,Jaipur,Grocery,Website,UPI,Silver,848.82,0,0.0,5.0,54,7,0,0,0
+CUST00523,51,Female,Mumbai,Grocery,Website,Net Banking,Gold,613.3,1,26.7,3.9,101,8,0,1,0
+CUST00524,50,Female,Delhi,Books,In-Store,Net Banking,Bronze,365.98,1,31.8,2.6,13,5,0,0,1
+CUST00525,36,Female,Chennai,Electronics,Online App,UPI,Bronze,5251.44,1,11.3,5.0,7,4,0,0,0
+CUST00526,24,Male,Delhi,Electronics,Website,Net Banking,Silver,5149.85,0,0.0,4.8,13,7,0,0,0
+CUST00527,40,Female,Hyderabad,Sports & Fitness,Website,UPI,Platinum,302.66,0,0.0,4.5,73,9,0,1,0
+CUST00528,22,Male,Ahmedabad,Grocery,Website,Debit Card,Silver,1263.84,1,19.6,4.4,105,6,0,1,0
+CUST00529,25,Female,Bhopal,Electronics,Website,Debit Card,Bronze,2738.27,0,0.0,3.7,40,4,0,0,0
+CUST00530,47,Male,Bhopal,Beauty & Personal Care,Online App,Cash on Delivery,Silver,545.6,1,38.2,3.5,37,2,0,0,0
+CUST00531,45,Male,Jaipur,Home & Kitchen,Website,Net Banking,Gold,2385.07,0,0.0,4.1,51,5,0,0,0
+CUST00532,33,Female,Bangalore,Sports & Fitness,In-Store,Net Banking,Platinum,1984.44,1,24.3,5.0,321,3,1,1,0
+CUST00533,30,Female,Kolkata,Grocery,Website,Cash on Delivery,Bronze,915.82,0,0.0,3.0,25,5,0,0,0
+CUST00534,38,Female,Chennai,Beauty & Personal Care,Online App,Net Banking,Bronze,180.4,0,0.0,3.9,58,10,0,0,0
+CUST00535,27,Male,Pune,Electronics,Online App,Credit Card,Bronze,3973.26,0,0.0,3.3,5,7,0,1,0
+CUST00536,34,Female,Bhopal,Sports & Fitness,Website,Cash on Delivery,Bronze,1719.73,0,0.0,5.0,6,10,0,0,0
+CUST00537,24,Female,Jaipur,Apparel,Online App,Debit Card,Bronze,2008.57,0,0.0,4.7,105,6,1,1,1
+CUST00538,34,Female,Ahmedabad,Apparel,Website,Cash on Delivery,Gold,1029.54,0,0.0,2.7,26,6,0,0,0
+CUST00539,18,Female,Delhi,Grocery,Online App,Debit Card,Bronze,924.88,1,19.6,4.1,3,6,0,1,0
+CUST00540,42,Male,Jaipur,Electronics,Website,Net Banking,Bronze,4507.15,0,0.0,4.4,3,6,0,0,0
+CUST00541,26,Female,Bhopal,Books,Online App,UPI,Silver,566.03,1,39.0,3.6,129,5,0,0,1
+CUST00542,18,Male,Hyderabad,Beauty & Personal Care,Online App,Net Banking,Bronze,836.07,0,0.0,4.5,30,3,0,1,0
+CUST00543,26,Female,Pune,Electronics,Online App,Net Banking,Gold,3389.02,0,0.0,4.0,13,5,0,0,0
+CUST00544,30,Female,Kolkata,Books,Website,Cash on Delivery,Silver,341.65,1,13.6,3.3,15,6,0,1,0
+CUST00545,55,Female,Jaipur,Electronics,Online App,Net Banking,Silver,6551.96,0,0.0,3.8,47,5,0,0,0
+CUST00546,28,Male,Pune,Apparel,In-Store,Cash on Delivery,Gold,249.98,1,26.8,3.7,65,6,0,1,0
+CUST00547,29,Male,Hyderabad,Books,Online App,UPI,Bronze,359.96,0,0.0,3.7,26,2,1,1,1
+CUST00548,52,Female,Mumbai,Home & Kitchen,Website,UPI,Bronze,3242.08,0,0.0,4.8,140,7,0,1,1
+CUST00549,18,Male,Hyderabad,Sports & Fitness,Website,Debit Card,Silver,1701.51,1,39.7,3.3,23,6,0,1,0
+CUST00550,35,Female,Jaipur,Books,Website,Debit Card,Bronze,362.95,0,0.0,4.7,25,2,0,1,1
+CUST00551,25,Male,Ahmedabad,Books,In-Store,UPI,Bronze,308.79,0,0.0,5.0,109,3,0,1,1
+CUST00552,43,Male,Mumbai,Home & Kitchen,In-Store,Net Banking,Bronze,1596.98,0,0.0,5.0,21,1,1,0,1
+CUST00553,26,Female,Ahmedabad,Grocery,Website,UPI,Bronze,481.24,0,0.0,3.3,9,5,0,1,0
+CUST00554,43,Male,Mumbai,Apparel,In-Store,Debit Card,Bronze,1421.48,0,0.0,5.0,30,3,0,0,0
+CUST00555,41,Female,Chennai,Books,Online App,Cash on Delivery,Bronze,156.98,0,0.0,2.7,81,7,0,0,1
+CUST00556,57,Male,Bhopal,Home & Kitchen,Online App,Debit Card,Gold,3477.1,1,8.1,3.2,0,7,0,1,0
+CUST00557,38,Male,Kolkata,Apparel,Website,Net Banking,Platinum,1078.97,1,16.5,5.0,67,3,0,0,0
+CUST00558,36,Male,Jaipur,Sports & Fitness,Website,Credit Card,Gold,1455.95,0,0.0,2.9,25,4,0,0,0
+CUST00559,52,Male,Kolkata,Grocery,Online App,Cash on Delivery,Platinum,809.52,0,0.0,5.0,25,4,0,1,0
+CUST00560,26,Male,Bangalore,Home & Kitchen,In-Store,Credit Card,Gold,2397.49,1,35.8,4.4,6,4,0,0,0
+CUST00561,35,Female,Pune,Apparel,Website,UPI,Bronze,1420.32,0,0.0,3.7,1,7,1,1,0
+CUST00562,32,Male,Jaipur,Apparel,Online App,UPI,Bronze,1516.58,1,21.7,5.0,107,5,0,1,1
+CUST00563,38,Female,Bangalore,Grocery,Online App,Net Banking,Bronze,656.91,0,0.0,3.6,50,8,0,1,0
+CUST00564,18,Male,Pune,Beauty & Personal Care,Online App,Credit Card,Gold,973.68,0,0.0,3.8,57,8,1,1,0
+CUST00565,18,Female,Chennai,Grocery,Website,Credit Card,Silver,1080.57,1,26.3,4.6,58,7,0,1,0
+CUST00566,18,Female,Jaipur,Books,Website,Cash on Delivery,Silver,631.85,1,32.5,3.9,21,7,0,0,0
+CUST00567,41,Male,Hyderabad,Sports & Fitness,Website,UPI,Silver,2315.94,0,0.0,2.3,31,7,0,0,0
+CUST00568,48,Female,Ahmedabad,Beauty & Personal Care,In-Store,Debit Card,Silver,557.57,0,0.0,3.6,32,4,0,0,0
+CUST00569,31,Male,Ahmedabad,Grocery,Website,UPI,Gold,1098.65,0,0.0,3.4,32,8,0,1,0
+CUST00570,25,Male,Kolkata,Beauty & Personal Care,Online App,UPI,Bronze,862.21,1,29.9,4.5,0,4,0,0,0
+CUST00571,38,Female,Chennai,Books,Website,Credit Card,Gold,603.28,0,0.0,5.0,106,3,0,0,1
+CUST00572,31,Female,Delhi,Sports & Fitness,Website,Cash on Delivery,Silver,1703.87,0,0.0,4.0,75,6,0,0,0
+CUST00573,29,Male,Chennai,Sports & Fitness,In-Store,Credit Card,Bronze,3039.95,0,0.0,3.2,49,1,0,0,1
+CUST00574,27,Female,Pune,Books,Website,Net Banking,Bronze,392.38,0,0.0,1.7,19,4,1,1,1
+CUST00575,27,Male,Jaipur,Grocery,Online App,Net Banking,Silver,621.28,0,0.0,4.4,38,3,0,1,0
+CUST00576,49,Female,Hyderabad,Apparel,Website,Net Banking,Silver,350.86,0,0.0,4.2,133,5,0,0,1
+CUST00577,33,Female,Jaipur,Books,Website,Credit Card,Bronze,228.04,0,0.0,5.0,6,6,0,0,0
+CUST00578,19,Male,Jaipur,Grocery,Website,Debit Card,Platinum,166.62,0,0.0,4.1,20,3,0,0,0
+CUST00579,18,Female,Jaipur,Books,Website,Cash on Delivery,Silver,960.03,1,38.8,3.5,9,7,0,0,0
+CUST00580,36,Male,Delhi,Grocery,Online App,Debit Card,Gold,937.76,1,31.5,2.8,34,10,0,0,0
+CUST00581,68,Female,Bangalore,Electronics,Website,Debit Card,Bronze,4035.28,0,0.0,4.4,188,9,0,0,1
+CUST00582,26,Male,Delhi,Sports & Fitness,Website,Cash on Delivery,Platinum,2594.32,0,0.0,5.0,4,4,0,1,0
+CUST00583,32,Female,Kolkata,Sports & Fitness,In-Store,Debit Card,Silver,1193.11,1,17.4,5.0,17,5,0,0,0
+CUST00584,40,Female,Ahmedabad,Grocery,Online App,Cash on Delivery,Bronze,205.95,0,0.0,4.2,2,4,0,0,0
+CUST00585,18,Female,Delhi,Books,In-Store,Cash on Delivery,Platinum,709.99,0,0.0,2.8,49,7,0,0,0
+CUST00586,27,Male,Mumbai,Books,Online App,Debit Card,Bronze,284.14,0,0.0,3.4,4,7,0,0,0
+CUST00587,47,Male,Delhi,Books,Online App,Net Banking,Gold,671.05,1,6.0,3.6,9,3,0,0,0
+CUST00588,18,Female,Ahmedabad,Beauty & Personal Care,Website,Credit Card,Silver,664.75,1,36.2,3.6,45,3,0,0,0
+CUST00589,18,Female,Mumbai,Grocery,Website,Cash on Delivery,Gold,806.62,0,0.0,3.2,34,8,0,0,0
+CUST00590,37,Female,Chennai,Electronics,In-Store,Debit Card,Gold,5783.71,0,0.0,3.7,20,7,0,0,0
+CUST00591,18,Male,Jaipur,Sports & Fitness,Online App,Cash on Delivery,Bronze,2025.36,1,15.8,5.0,0,6,0,1,0
+CUST00592,33,Female,Kolkata,Electronics,Website,Credit Card,Bronze,5410.32,1,15.6,3.8,41,6,0,0,0
+CUST00593,29,Female,Mumbai,Grocery,Online App,UPI,Silver,836.13,0,0.0,4.4,80,5,0,0,0
+CUST00594,55,Male,Chennai,Beauty & Personal Care,Website,Cash on Delivery,Bronze,991.33,0,0.0,3.1,77,4,0,0,0
+CUST00595,52,Male,Hyderabad,Books,Online App,Net Banking,Gold,529.51,0,0.0,5.0,39,4,0,1,0
+CUST00596,18,Male,Chennai,Beauty & Personal Care,In-Store,UPI,Silver,1346.38,1,15.9,3.9,54,5,0,0,0
+CUST00597,41,Male,Chennai,Apparel,Online App,Debit Card,Silver,946.71,1,28.5,4.1,23,9,0,0,0
+CUST00598,35,Male,Mumbai,Sports & Fitness,Website,UPI,Bronze,1801.8,0,0.0,5.0,101,3,0,0,1
+CUST00599,21,Female,Jaipur,Apparel,Online App,Debit Card,Silver,1267.21,0,0.0,4.2,56,4,0,0,0
+CUST00600,20,Female,Mumbai,Electronics,Online App,UPI,Silver,8084.47,0,0.0,4.3,24,7,0,0,0
+CUST00601,23,Female,Jaipur,Home & Kitchen,Online App,Credit Card,Gold,2656.54,1,23.7,4.7,17,5,1,1,0
+CUST00602,35,Female,Jaipur,Apparel,Online App,Net Banking,Bronze,1097.21,0,0.0,4.7,12,8,0,1,0
+CUST00603,42,Female,Hyderabad,Apparel,Online App,Cash on Delivery,Bronze,1346.69,0,0.0,4.7,62,6,0,1,0
+CUST00604,32,Female,Chennai,Beauty & Personal Care,Website,UPI,Silver,192.4,0,0.0,3.4,25,5,0,0,0
+CUST00605,43,Female,Jaipur,Sports & Fitness,Online App,UPI,Silver,2388.46,1,8.7,4.8,29,5,0,0,0
+CUST00606,47,Female,Bhopal,Beauty & Personal Care,Online App,Net Banking,Bronze,1395.79,0,0.0,4.8,92,9,0,0,1
+CUST00607,34,Male,Chennai,Apparel,In-Store,Cash on Delivery,Silver,1546.77,1,24.9,3.6,4,7,0,1,0
+CUST00608,60,Male,Delhi,Books,In-Store,Cash on Delivery,Gold,483.29,0,0.0,4.3,24,7,0,0,0
+CUST00609,51,Male,Ahmedabad,Apparel,Online App,Net Banking,Bronze,1353.7,0,0.0,5.0,1,5,0,1,0
+CUST00610,35,Female,Chennai,Beauty & Personal Care,Website,UPI,Bronze,995.13,1,36.1,3.9,36,4,1,1,0
+CUST00611,41,Male,Bangalore,Books,Online App,Cash on Delivery,Bronze,427.98,1,20.7,5.0,6,1,0,1,1
+CUST00612,61,Female,Jaipur,Grocery,In-Store,Debit Card,Platinum,765.25,1,30.1,3.3,110,4,1,1,1
+CUST00613,30,Male,Jaipur,Sports & Fitness,Online App,Credit Card,Gold,452.18,0,0.0,2.8,60,5,1,1,0
+CUST00614,37,Male,Bhopal,Grocery,In-Store,UPI,Gold,463.06,1,13.2,4.7,96,6,0,0,1
+CUST00615,25,Female,Kolkata,Beauty & Personal Care,Online App,Cash on Delivery,Bronze,376.18,0,0.0,4.2,31,4,0,0,0
+CUST00616,27,Female,Kolkata,Apparel,Online App,Credit Card,Bronze,1213.66,0,0.0,3.9,32,3,0,1,0
+CUST00617,18,Female,Kolkata,Apparel,Online App,Net Banking,Gold,1129.95,1,29.3,5.0,11,3,1,1,0
+CUST00618,58,Female,Bhopal,Beauty & Personal Care,Website,Net Banking,Bronze,723.96,0,0.0,3.3,13,3,0,0,0
+CUST00619,37,Female,Hyderabad,Books,Website,Net Banking,Platinum,348.12,1,6.2,3.5,0,2,0,0,0
+CUST00620,41,Female,Delhi,Sports & Fitness,Website,UPI,Bronze,1866.51,1,39.4,2.5,13,10,1,1,1
+CUST00621,19,Female,Bhopal,Electronics,Website,Cash on Delivery,Bronze,3787.92,0,0.0,5.0,52,6,0,1,0
+CUST00622,23,Male,Bhopal,Grocery,Website,Cash on Delivery,Bronze,693.55,0,0.0,5.0,5,3,0,0,0
+CUST00623,18,Female,Jaipur,Books,Online App,Debit Card,Platinum,423.1,1,15.1,2.6,6,2,0,1,0
+CUST00624,28,Female,Jaipur,Home & Kitchen,Online App,Net Banking,Silver,901.64,1,28.0,4.8,162,3,0,1,1
+CUST00625,34,Male,Pune,Beauty & Personal Care,Online App,Cash on Delivery,Bronze,1250.61,1,13.8,5.0,22,2,0,0,1
+CUST00626,40,Female,Mumbai,Books,Online App,Credit Card,Platinum,627.09,1,28.1,4.0,4,5,0,0,0
+CUST00627,31,Male,Ahmedabad,Apparel,Website,UPI,Bronze,1857.65,0,0.0,5.0,55,7,0,1,0
+CUST00628,33,Male,Ahmedabad,Grocery,In-Store,Net Banking,Bronze,781.54,0,0.0,3.6,22,5,0,0,0
+CUST00629,25,Female,Mumbai,Books,Online App,UPI,Bronze,514.88,0,0.0,3.7,46,5,0,0,0
+CUST00630,23,Male,Kolkata,Books,Website,Net Banking,Bronze,341.12,0,0.0,4.3,77,6,0,0,0
+CUST00631,18,Female,Kolkata,Books,Online App,Cash on Delivery,Silver,377.57,0,0.0,4.6,8,7,1,1,0
+CUST00632,36,Female,Jaipur,Books,In-Store,Debit Card,Bronze,816.3,1,13.9,4.2,80,3,0,0,0
+CUST00633,60,Male,Jaipur,Grocery,Online App,Debit Card,Silver,485.13,1,16.0,3.8,101,10,0,0,0
+CUST00634,28,Male,Mumbai,Beauty & Personal Care,Online App,UPI,Silver,525.53,0,0.0,4.5,25,8,0,0,0
+CUST00635,24,Male,Mumbai,Sports & Fitness,Online App,Cash on Delivery,Silver,1310.52,1,38.3,4.7,4,7,0,1,0
+CUST00636,32,Male,Delhi,Grocery,Website,Net Banking,Silver,1280.66,1,24.8,3.2,11,10,1,1,0
+CUST00637,28,Male,Pune,Home & Kitchen,Website,UPI,Silver,2744.75,1,14.7,5.0,19,4,0,1,0
+CUST00638,35,Female,Pune,Apparel,Website,Debit Card,Gold,1007.05,0,0.0,4.7,162,5,0,0,1
+CUST00639,44,Female,Bangalore,Beauty & Personal Care,Online App,Credit Card,Silver,1124.6,0,0.0,2.4,12,7,0,0,0
+CUST00640,22,Female,Hyderabad,Sports & Fitness,Website,Net Banking,Gold,1368.24,0,0.0,2.1,38,9,0,0,0
+CUST00641,29,Female,Ahmedabad,Electronics,In-Store,Credit Card,Silver,3671.73,0,0.0,4.2,48,10,0,0,0
+CUST00642,26,Male,Chennai,Beauty & Personal Care,Website,Cash on Delivery,Gold,1640.81,1,21.7,2.6,76,5,0,1,0
+CUST00643,43,Male,Bhopal,Apparel,Online App,Net Banking,Bronze,1562.38,0,0.0,2.2,163,5,1,0,1
+CUST00644,33,Female,Kolkata,Electronics,Website,UPI,Bronze,6084.12,1,16.9,2.6,5,2,0,1,1
+CUST00645,42,Female,Hyderabad,Apparel,Website,Net Banking,Silver,861.18,0,0.0,4.2,21,6,0,0,0
+CUST00646,34,Female,Ahmedabad,Electronics,In-Store,Net Banking,Gold,2188.1,0,0.0,5.0,135,3,0,1,0
+CUST00647,48,Male,Ahmedabad,Beauty & Personal Care,Online App,Cash on Delivery,Silver,949.56,0,0.0,3.4,56,7,1,1,0
+CUST00648,39,Male,Mumbai,Home & Kitchen,Online App,UPI,Silver,2318.97,0,0.0,3.6,25,7,0,0,0
+CUST00649,25,Male,Jaipur,Apparel,In-Store,UPI,Gold,978.59,0,0.0,1.9,92,5,0,1,1
+CUST00650,37,Male,Hyderabad,Books,Website,UPI,Bronze,324.31,0,0.0,4.0,9,6,0,1,0
+CUST00651,30,Female,Jaipur,Apparel,In-Store,UPI,Gold,1035.33,0,0.0,2.0,31,6,0,1,0
+CUST00652,44,Male,Delhi,Grocery,Online App,Debit Card,Gold,894.1,1,28.7,2.1,20,6,0,1,0
+CUST00653,54,Male,Chennai,Grocery,In-Store,Credit Card,Gold,820.76,1,16.7,4.4,7,4,0,0,0
+CUST00654,47,Female,Bangalore,Books,Online App,Credit Card,Silver,528.94,1,6.4,2.7,109,5,0,1,1
+CUST00655,47,Female,Bangalore,Electronics,In-Store,UPI,Bronze,5384.54,0,0.0,2.8,42,3,0,1,1
+CUST00656,49,Female,Kolkata,Books,In-Store,Net Banking,Silver,754.62,0,0.0,4.0,32,3,0,0,0
+CUST00657,29,Female,Hyderabad,Apparel,Website,UPI,Silver,1587.38,1,26.4,4.9,26,1,0,1,0
+CUST00658,37,Female,Chennai,Beauty & Personal Care,Online App,Credit Card,Bronze,1108.41,1,39.2,4.3,43,5,0,1,0
+CUST00659,28,Male,Ahmedabad,Grocery,Website,Credit Card,Bronze,413.49,0,0.0,4.2,29,3,0,1,0
+CUST00660,18,Female,Ahmedabad,Apparel,Online App,UPI,Bronze,1387.78,0,0.0,4.4,87,5,0,0,0
+CUST00661,32,Female,Mumbai,Electronics,Website,Cash on Delivery,Bronze,6501.78,1,22.0,4.5,73,9,0,1,0
+CUST00662,49,Female,Jaipur,Sports & Fitness,Online App,Credit Card,Gold,3342.97,1,13.1,3.5,79,4,0,0,0
+CUST00663,26,Male,Kolkata,Grocery,Online App,Credit Card,Bronze,712.56,1,6.9,4.2,6,7,0,0,0
+CUST00664,29,Female,Bangalore,Beauty & Personal Care,Online App,Net Banking,Gold,167.67,1,39.1,2.8,61,5,0,0,0
+CUST00665,39,Male,Pune,Apparel,Online App,Net Banking,Silver,722.36,0,0.0,3.5,30,5,0,1,0
+CUST00666,41,Male,Jaipur,Apparel,Website,Cash on Delivery,Gold,1640.66,0,0.0,4.5,54,10,0,0,0
+CUST00667,18,Male,Jaipur,Beauty & Personal Care,In-Store,Debit Card,Bronze,969.35,0,0.0,4.2,19,3,0,0,0
+CUST00668,33,Female,Jaipur,Apparel,In-Store,Cash on Delivery,Platinum,916.31,1,36.4,4.3,38,2,0,0,0
+CUST00669,26,Female,Bhopal,Electronics,Online App,Net Banking,Silver,3867.23,1,33.7,3.7,39,5,0,0,0
+CUST00670,30,Male,Kolkata,Apparel,Online App,Debit Card,Bronze,441.78,1,5.6,3.4,10,6,0,0,0
+CUST00671,25,Female,Jaipur,Books,Website,Net Banking,Silver,510.8,0,0.0,3.4,130,8,0,0,1
+CUST00672,53,Female,Ahmedabad,Books,Website,UPI,Bronze,376.9,1,23.6,2.5,33,2,0,1,1
+CUST00673,20,Male,Delhi,Sports & Fitness,In-Store,UPI,Silver,1645.23,1,17.7,4.2,4,3,0,0,0
+CUST00674,41,Female,Jaipur,Electronics,Online App,Credit Card,Silver,6184.9,1,24.6,4.6,4,4,0,0,0
+CUST00675,20,Female,Hyderabad,Sports & Fitness,Online App,Net Banking,Gold,1951.79,1,35.5,3.2,16,4,0,1,0
+CUST00676,18,Male,Chennai,Home & Kitchen,In-Store,Cash on Delivery,Silver,1990.73,0,0.0,4.3,9,10,0,0,0
+CUST00677,47,Female,Bhopal,Sports & Fitness,In-Store,Net Banking,Gold,150.0,1,23.6,3.9,68,6,0,1,0
+CUST00678,29,Male,Hyderabad,Beauty & Personal Care,Online App,Net Banking,Gold,1277.42,0,0.0,3.8,39,8,1,0,0
+CUST00679,36,Female,Delhi,Books,Online App,Credit Card,Gold,323.68,0,0.0,2.4,51,7,0,0,0
+CUST00680,18,Male,Ahmedabad,Home & Kitchen,Online App,UPI,Bronze,2925.52,0,0.0,4.0,103,5,0,0,1
+CUST00681,36,Female,Kolkata,Sports & Fitness,Online App,Debit Card,Silver,1443.39,1,23.6,3.5,2,9,0,0,0
+CUST00682,22,Male,Pune,Apparel,Website,Credit Card,Silver,1198.89,1,31.9,3.9,106,9,0,0,0
+CUST00683,52,Female,Bangalore,Sports & Fitness,In-Store,Cash on Delivery,Bronze,1207.29,1,34.4,4.6,94,7,0,1,1
+CUST00684,19,Male,Bangalore,Apparel,Online App,Debit Card,Silver,1205.11,0,0.0,2.7,84,4,0,0,0
+CUST00685,21,Male,Chennai,Home & Kitchen,Online App,Net Banking,Silver,2804.94,0,0.0,3.8,15,9,0,1,0
+CUST00686,29,Female,Ahmedabad,Grocery,Online App,Net Banking,Platinum,458.09,0,0.0,3.8,57,4,1,0,0
+CUST00687,52,Female,Pune,Beauty & Personal Care,In-Store,Cash on Delivery,Silver,150.0,1,30.5,3.5,95,4,1,0,1
+CUST00688,29,Male,Ahmedabad,Electronics,Online App,Cash on Delivery,Bronze,2937.74,0,0.0,4.4,13,5,0,0,0
+CUST00689,38,Female,Delhi,Home & Kitchen,Online App,Credit Card,Silver,1539.36,0,0.0,2.9,0,6,1,0,0
+CUST00690,35,Male,Delhi,Sports & Fitness,In-Store,UPI,Platinum,1583.81,0,0.0,2.7,48,2,0,1,1
+CUST00691,35,Male,Chennai,Beauty & Personal Care,Online App,Net Banking,Bronze,1071.45,0,0.0,5.0,118,7,0,0,1
+CUST00692,23,Female,Bhopal,Electronics,Online App,Net Banking,Gold,3387.31,0,0.0,4.7,49,10,0,0,0
+CUST00693,26,Female,Kolkata,Apparel,In-Store,Cash on Delivery,Bronze,1947.02,0,0.0,3.4,15,6,0,1,0
+CUST00694,20,Female,Delhi,Sports & Fitness,Website,UPI,Bronze,1929.81,1,14.6,3.2,41,5,0,0,0
+CUST00695,20,Male,Hyderabad,Apparel,In-Store,Debit Card,Silver,1415.92,0,0.0,3.3,142,5,0,1,1
+CUST00696,28,Female,Ahmedabad,Sports & Fitness,Website,Credit Card,Bronze,2481.7,0,0.0,3.9,8,5,0,1,0
+CUST00697,18,Female,Delhi,Books,Website,Debit Card,Silver,691.08,0,0.0,3.3,6,7,0,0,0
+CUST00698,46,Male,Pune,Beauty & Personal Care,In-Store,UPI,Silver,1055.65,0,0.0,3.3,25,4,0,0,0
+CUST00699,32,Female,Ahmedabad,Books,In-Store,Debit Card,Silver,150.0,1,34.6,3.6,65,2,0,0,0
+CUST00700,46,Female,Ahmedabad,Books,Online App,Credit Card,Bronze,372.78,0,0.0,4.8,47,5,0,1,0
+CUST00701,29,Male,Pune,Home & Kitchen,Website,UPI,Silver,2818.23,1,11.4,2.7,22,6,0,1,0
+CUST00702,46,Female,Chennai,Grocery,In-Store,Debit Card,Bronze,915.61,1,17.7,4.0,2,4,0,0,0
+CUST00703,36,Male,Mumbai,Apparel,Website,Debit Card,Gold,1457.99,0,0.0,3.4,113,4,1,0,0
+CUST00704,33,Male,Bangalore,Sports & Fitness,Online App,Credit Card,Gold,1885.18,1,29.1,3.3,43,5,1,1,0
+CUST00705,55,Male,Kolkata,Beauty & Personal Care,In-Store,UPI,Gold,1206.96,1,21.8,4.5,6,3,0,0,0
+CUST00706,31,Female,Jaipur,Sports & Fitness,Website,Debit Card,Bronze,989.2,0,0.0,2.6,10,4,0,0,1
+CUST00707,44,Male,Bangalore,Books,Online App,Credit Card,Bronze,643.25,1,19.9,3.3,14,4,0,0,0
+CUST00708,30,Male,Ahmedabad,Grocery,Online App,Credit Card,Bronze,489.65,1,23.0,4.0,129,13,0,0,1
+CUST00709,58,Female,Mumbai,Electronics,Online App,UPI,Gold,150.0,1,37.2,3.7,38,4,0,1,0
+CUST00710,47,Male,Chennai,Electronics,Online App,Debit Card,Platinum,2417.51,0,0.0,4.2,5,7,0,0,0
+CUST00711,18,Male,Bhopal,Sports & Fitness,Online App,Cash on Delivery,Gold,1128.69,0,0.0,1.8,89,9,0,1,0
+CUST00712,25,Male,Bhopal,Electronics,In-Store,UPI,Platinum,2211.21,1,34.8,2.9,46,6,0,1,0
+CUST00713,44,Male,Ahmedabad,Books,In-Store,Credit Card,Gold,761.27,1,19.8,4.3,3,3,0,0,0
+CUST00714,51,Female,Delhi,Beauty & Personal Care,Online App,Credit Card,Silver,205.67,0,0.0,4.5,57,6,0,1,0
+CUST00715,40,Male,Chennai,Beauty & Personal Care,Online App,Debit Card,Silver,843.67,1,29.0,4.2,13,5,0,0,0
+CUST00716,47,Female,Pune,Grocery,Online App,UPI,Gold,714.86,1,37.9,4.7,58,7,0,0,0
+CUST00717,31,Female,Delhi,Beauty & Personal Care,Online App,UPI,Bronze,854.13,0,0.0,4.0,14,6,0,1,0
+CUST00718,30,Male,Delhi,Home & Kitchen,In-Store,Debit Card,Bronze,554.49,1,19.2,3.1,55,7,0,0,0
+CUST00719,30,Female,Pune,Grocery,Website,Cash on Delivery,Silver,237.32,1,33.0,3.8,38,6,1,0,0
+CUST00720,29,Female,Ahmedabad,Sports & Fitness,Online App,Net Banking,Bronze,1518.91,0,0.0,4.4,11,8,0,1,0
+CUST00721,28,Male,Mumbai,Electronics,Website,UPI,Silver,7256.96,0,0.0,1.8,60,8,0,1,0
+CUST00722,37,Female,Bangalore,Home & Kitchen,Website,UPI,Gold,2439.57,1,23.2,3.8,11,7,0,0,0
+CUST00723,32,Female,Ahmedabad,Beauty & Personal Care,Website,Cash on Delivery,Bronze,1117.31,1,24.1,5.0,17,5,1,0,0
+CUST00724,37,Female,Delhi,Beauty & Personal Care,Website,Net Banking,Silver,915.49,0,0.0,4.5,34,13,0,1,0
+CUST00725,35,Female,Bangalore,Beauty & Personal Care,Online App,Debit Card,Gold,923.41,0,0.0,4.6,33,8,0,1,0
+CUST00726,24,Female,Ahmedabad,Sports & Fitness,In-Store,Cash on Delivery,Bronze,3052.56,0,0.0,4.0,23,6,0,0,0
+CUST00727,33,Female,Pune,Home & Kitchen,Online App,Cash on Delivery,Bronze,2155.3,1,17.2,4.0,48,9,0,0,0
+CUST00728,41,Female,Kolkata,Electronics,Online App,Debit Card,Silver,5738.77,0,0.0,3.5,1,3,0,0,0
+CUST00729,32,Female,Jaipur,Electronics,In-Store,UPI,Gold,4527.05,0,0.0,2.2,5,4,0,0,0
+CUST00730,18,Male,Ahmedabad,Books,In-Store,Cash on Delivery,Silver,528.61,0,0.0,4.3,4,9,0,0,0
+CUST00731,45,Male,Chennai,Beauty & Personal Care,Website,Debit Card,Silver,1135.02,1,8.5,4.7,128,2,0,0,1
+CUST00732,35,Female,Bangalore,Sports & Fitness,Online App,Net Banking,Bronze,2429.27,1,39.1,4.0,84,4,0,1,0
+CUST00733,32,Male,Pune,Home & Kitchen,Online App,Cash on Delivery,Silver,2822.64,0,0.0,3.7,60,6,0,0,0
+CUST00734,43,Male,Jaipur,Home & Kitchen,Online App,Cash on Delivery,Gold,3930.89,0,0.0,3.9,18,8,0,1,0
+CUST00735,19,Female,Bhopal,Grocery,Online App,Cash on Delivery,Bronze,897.09,0,0.0,4.8,17,4,0,0,0
+CUST00736,25,Male,Mumbai,Books,Website,Credit Card,Silver,633.89,0,0.0,5.0,74,3,1,1,0
+CUST00737,36,Female,Pune,Books,Website,Cash on Delivery,Gold,150.0,1,37.7,2.9,57,3,0,0,0
+CUST00738,50,Male,Chennai,Beauty & Personal Care,Online App,Credit Card,Gold,1128.72,1,34.5,3.8,57,6,0,1,0
+CUST00739,53,Male,Hyderabad,Grocery,Online App,Debit Card,Silver,1336.31,0,0.0,4.5,104,9,0,0,0
+CUST00740,34,Male,Bangalore,Apparel,Online App,Debit Card,Silver,843.02,1,20.3,4.4,19,5,0,0,0
+CUST00741,49,Male,Pune,Apparel,Online App,Debit Card,Silver,590.29,0,0.0,3.1,97,6,0,1,1
+CUST00742,41,Female,Mumbai,Electronics,In-Store,UPI,Bronze,6368.42,0,0.0,4.6,26,8,0,1,0
+CUST00743,38,Female,Delhi,Beauty & Personal Care,In-Store,Credit Card,Bronze,1224.43,1,22.5,4.7,10,7,0,1,0
+CUST00744,30,Female,Ahmedabad,Electronics,Online App,UPI,Gold,3384.65,0,0.0,3.1,31,6,0,1,0
+CUST00745,32,Male,Kolkata,Apparel,Online App,Credit Card,Bronze,1111.64,0,0.0,3.2,94,2,0,1,1
+CUST00746,52,Male,Ahmedabad,Sports & Fitness,Online App,UPI,Bronze,2253.73,0,0.0,1.9,94,9,0,1,1
+CUST00747,24,Male,Chennai,Beauty & Personal Care,Website,Debit Card,Bronze,150.0,1,26.2,4.4,16,4,0,1,0
+CUST00748,18,Male,Hyderabad,Home & Kitchen,Website,Debit Card,Silver,2605.92,1,36.6,3.1,63,3,0,0,0
+CUST00749,53,Male,Ahmedabad,Beauty & Personal Care,Online App,Net Banking,Platinum,1905.2,1,15.5,4.0,39,10,1,1,0
+CUST00750,42,Female,Hyderabad,Grocery,In-Store,Net Banking,Silver,993.3,1,31.8,3.0,11,1,0,0,0
+CUST00751,27,Male,Ahmedabad,Beauty & Personal Care,Website,Debit Card,Gold,414.72,1,33.7,3.4,158,6,0,1,1
+CUST00752,33,Male,Chennai,Beauty & Personal Care,Website,Cash on Delivery,Gold,651.89,0,0.0,2.6,92,4,0,0,1
+CUST00753,18,Male,Ahmedabad,Grocery,Website,UPI,Silver,754.71,1,16.0,5.0,96,7,0,0,0
+CUST00754,30,Male,Jaipur,Books,Online App,Debit Card,Silver,671.19,1,9.7,4.3,103,2,0,0,1
+CUST00755,34,Female,Pune,Apparel,Online App,Debit Card,Bronze,150.0,1,38.1,3.8,8,10,1,0,0
+CUST00756,29,Male,Bhopal,Books,Website,Credit Card,Platinum,486.98,1,11.9,3.2,15,4,0,0,0
+CUST00757,32,Female,Jaipur,Beauty & Personal Care,Website,Credit Card,Bronze,408.73,0,0.0,4.1,22,7,1,0,0
+CUST00758,53,Female,Ahmedabad,Grocery,Website,UPI,Bronze,647.92,0,0.0,4.4,83,5,1,1,0
+CUST00759,19,Female,Pune,Books,Website,Credit Card,Silver,215.54,0,0.0,2.1,5,2,0,1,1
+CUST00760,29,Male,Kolkata,Apparel,Online App,Credit Card,Bronze,1581.56,1,13.2,5.0,46,6,0,0,0
+CUST00761,18,Female,Delhi,Electronics,Website,Debit Card,Platinum,5647.12,0,0.0,4.9,99,4,0,0,0
+CUST00762,18,Female,Jaipur,Home & Kitchen,Online App,Cash on Delivery,Bronze,851.24,0,0.0,2.9,56,3,0,1,1
+CUST00763,30,Male,Mumbai,Home & Kitchen,Website,Net Banking,Bronze,1122.0,0,0.0,5.0,32,5,0,1,0
+CUST00764,27,Male,Jaipur,Apparel,Online App,Cash on Delivery,Silver,930.27,0,0.0,2.6,0,5,0,0,0
+CUST00765,41,Female,Bangalore,Home & Kitchen,Online App,UPI,Platinum,1475.89,0,0.0,3.0,105,8,1,0,0
+CUST00766,42,Female,Kolkata,Home & Kitchen,In-Store,Debit Card,Silver,1606.95,1,14.2,5.0,18,4,0,1,0
+CUST00767,37,Female,Ahmedabad,Grocery,In-Store,Cash on Delivery,Gold,495.25,1,32.9,3.1,123,2,0,0,1
+CUST00768,26,Male,Bangalore,Electronics,Website,Credit Card,Gold,844.84,0,0.0,3.9,6,7,1,1,0
+CUST00769,35,Male,Ahmedabad,Home & Kitchen,In-Store,Cash on Delivery,Silver,845.86,0,0.0,4.5,9,5,0,1,0
+CUST00770,35,Male,Chennai,Electronics,Online App,Debit Card,Bronze,5781.52,0,0.0,3.0,68,7,0,0,0
+CUST00771,35,Male,Jaipur,Electronics,Website,Cash on Delivery,Bronze,778.27,1,13.6,4.1,26,8,0,0,0
+CUST00772,48,Female,Mumbai,Home & Kitchen,Website,UPI,Bronze,2868.61,1,38.3,3.1,34,7,0,0,0
+CUST00773,42,Male,Ahmedabad,Grocery,Website,Net Banking,Silver,150.0,1,25.8,4.2,13,5,0,1,0
+CUST00774,30,Female,Chennai,Books,In-Store,Cash on Delivery,Bronze,411.28,1,33.1,5.0,56,6,0,1,0
+CUST00775,31,Male,Bhopal,Sports & Fitness,Online App,Net Banking,Bronze,2989.98,0,0.0,4.5,41,4,0,0,0
+CUST00776,42,Male,Hyderabad,Apparel,Online App,Net Banking,Bronze,1413.55,1,27.9,4.7,13,5,0,0,0
+CUST00777,51,Female,Pune,Books,Website,Debit Card,Silver,441.4,1,22.9,3.2,12,9,0,1,0
+CUST00778,24,Female,Pune,Sports & Fitness,Website,UPI,Gold,1285.87,1,26.5,5.0,8,9,0,0,0
+CUST00779,50,Male,Bhopal,Home & Kitchen,In-Store,Credit Card,Silver,2414.26,1,37.6,3.5,13,2,0,1,0
+CUST00780,34,Male,Pune,Beauty & Personal Care,Online App,Net Banking,Bronze,1171.33,1,29.0,4.0,46,7,0,0,0
+CUST00781,22,Female,Pune,Sports & Fitness,Online App,UPI,Platinum,1862.61,0,0.0,3.4,67,9,0,0,0
+CUST00782,41,Female,Jaipur,Grocery,Online App,Debit Card,Silver,665.97,1,5.6,5.0,34,7,0,0,0
+CUST00783,43,Male,Kolkata,Electronics,Online App,Debit Card,Bronze,2859.28,1,31.5,4.2,215,6,0,1,1
+CUST00784,37,Female,Bangalore,Apparel,Online App,Cash on Delivery,Bronze,1292.84,1,20.2,4.0,2,6,0,0,0
+CUST00785,42,Male,Bangalore,Books,Website,Net Banking,Gold,456.75,1,26.1,4.4,0,5,0,1,0
+CUST00786,44,Female,Kolkata,Grocery,Online App,Credit Card,Bronze,826.59,0,0.0,2.7,4,5,0,1,1
+CUST00787,41,Male,Mumbai,Apparel,Website,Credit Card,Silver,1353.39,0,0.0,3.4,15,6,0,1,0
+CUST00788,39,Male,Delhi,Home & Kitchen,Website,Credit Card,Silver,2148.23,0,0.0,3.7,7,4,0,0,0
+CUST00789,23,Female,Ahmedabad,Beauty & Personal Care,Online App,Net Banking,Silver,1689.7,0,0.0,2.4,91,9,0,1,1
+CUST00790,28,Male,Chennai,Electronics,Online App,Net Banking,Platinum,4377.07,1,30.8,3.0,50,4,0,0,0
+CUST00791,22,Female,Mumbai,Beauty & Personal Care,Online App,Cash on Delivery,Silver,592.17,1,28.8,2.8,32,5,0,0,0
+CUST00792,24,Male,Bhopal,Electronics,Online App,Debit Card,Silver,6048.33,0,0.0,4.6,49,8,0,1,0
+CUST00793,33,Male,Ahmedabad,Sports & Fitness,In-Store,Debit Card,Silver,1304.12,0,0.0,3.8,79,9,0,1,0
+CUST00794,19,Female,Chennai,Beauty & Personal Care,Online App,Credit Card,Silver,825.27,1,37.3,5.0,17,8,0,1,0
+CUST00795,38,Female,Bangalore,Home & Kitchen,Website,Net Banking,Platinum,1166.99,1,28.6,4.9,1,8,0,1,0
+CUST00796,33,Male,Jaipur,Apparel,Online App,UPI,Silver,1022.82,0,0.0,3.7,13,3,0,1,0
+CUST00797,37,Male,Kolkata,Beauty & Personal Care,Online App,Credit Card,Silver,1176.33,1,17.6,4.2,19,5,0,1,0
+CUST00798,42,Male,Bhopal,Electronics,In-Store,Debit Card,Silver,7256.39,1,9.2,4.2,43,1,0,0,0
+CUST00799,44,Female,Chennai,Grocery,Online App,Cash on Delivery,Bronze,674.89,0,0.0,4.5,29,5,0,0,0
+CUST00800,18,Male,Mumbai,Beauty & Personal Care,Website,UPI,Platinum,702.29,1,26.3,3.5,47,10,0,0,0
+CUST00801,48,Male,Bhopal,Electronics,Online App,UPI,Gold,8278.93,1,10.5,3.9,1,6,0,0,0
+CUST00802,57,Female,Delhi,Apparel,Website,Debit Card,Gold,1341.69,0,0.0,4.2,21,8,0,1,0
+CUST00803,34,Male,Hyderabad,Grocery,In-Store,Debit Card,Bronze,219.6,0,0.0,3.1,13,3,0,1,0
+CUST00804,28,Female,Chennai,Books,Website,Credit Card,Gold,492.87,0,0.0,3.1,4,4,0,0,0
+CUST00805,33,Female,Kolkata,Beauty & Personal Care,In-Store,Cash on Delivery,Gold,1378.86,0,0.0,4.2,51,5,0,0,0
+CUST00806,46,Male,Bhopal,Electronics,Online App,Debit Card,Silver,6063.2,1,20.2,5.0,36,6,0,0,0
+CUST00807,30,Male,Jaipur,Electronics,In-Store,Cash on Delivery,Platinum,6355.65,0,0.0,3.6,14,4,1,1,0
+CUST00808,38,Female,Chennai,Home & Kitchen,Online App,Debit Card,Platinum,2374.21,1,10.1,5.0,43,6,0,1,0
+CUST00809,21,Female,Chennai,Grocery,Website,Net Banking,Gold,716.77,1,7.9,2.4,9,7,0,0,0
+CUST00810,34,Male,Bhopal,Sports & Fitness,Online App,UPI,Silver,1739.68,0,0.0,5.0,85,5,0,1,0
+CUST00811,44,Male,Mumbai,Grocery,Website,Debit Card,Bronze,920.94,1,30.4,3.3,33,4,1,0,0
+CUST00812,26,Male,Chennai,Home & Kitchen,Website,Debit Card,Bronze,2398.05,1,37.9,4.0,18,7,0,0,0
+CUST00813,53,Male,Ahmedabad,Home & Kitchen,In-Store,Cash on Delivery,Silver,2551.36,1,27.0,3.4,13,9,0,0,0
+CUST00814,40,Female,Pune,Home & Kitchen,Website,Cash on Delivery,Silver,2088.21,1,23.2,2.6,17,5,0,0,0
+CUST00815,41,Male,Chennai,Beauty & Personal Care,Online App,Net Banking,Gold,846.95,0,0.0,3.9,31,7,0,1,0
+CUST00816,32,Female,Hyderabad,Beauty & Personal Care,Online App,Cash on Delivery,Silver,318.25,1,32.3,3.1,27,8,0,0,0
+CUST00817,18,Female,Ahmedabad,Books,In-Store,Net Banking,Gold,221.58,0,0.0,3.1,43,2,0,0,0
+CUST00818,32,Female,Ahmedabad,Apparel,In-Store,Cash on Delivery,Gold,1112.45,0,0.0,5.0,172,6,0,0,1
+CUST00819,43,Male,Bhopal,Home & Kitchen,In-Store,UPI,Silver,1367.09,0,0.0,3.7,107,6,0,0,0
+CUST00820,37,Male,Bhopal,Apparel,Online App,Debit Card,Platinum,1549.52,0,0.0,3.0,9,4,0,1,0
+CUST00821,18,Male,Jaipur,Beauty & Personal Care,Online App,Debit Card,Gold,732.57,0,0.0,4.9,56,5,0,0,0
+CUST00822,33,Male,Bhopal,Home & Kitchen,Online App,UPI,Silver,3015.11,1,24.8,3.6,6,9,1,1,0
+CUST00823,25,Female,Jaipur,Apparel,Website,Cash on Delivery,Silver,1145.48,1,28.4,3.4,4,5,0,1,0
+CUST00824,47,Male,Jaipur,Books,Website,Net Banking,Bronze,365.26,0,0.0,4.9,41,8,0,1,0
+CUST00825,41,Female,Pune,Books,Online App,Credit Card,Gold,567.79,1,32.9,3.0,89,10,0,0,0
+CUST00826,43,Male,Bhopal,Electronics,Online App,Cash on Delivery,Silver,8471.64,1,38.5,4.0,31,4,0,1,0
+CUST00827,28,Male,Delhi,Books,In-Store,Credit Card,Platinum,321.96,0,0.0,5.0,7,7,0,1,0
+CUST00828,49,Female,Delhi,Grocery,Website,Debit Card,Silver,330.09,0,0.0,4.1,26,8,0,0,0
+CUST00829,29,Female,Bangalore,Beauty & Personal Care,Online App,Cash on Delivery,Bronze,1686.86,0,0.0,3.7,15,10,0,0,0
+CUST00830,42,Male,Pune,Apparel,Online App,UPI,Bronze,414.87,1,28.8,3.7,20,6,0,1,0
+CUST00831,18,Male,Mumbai,Books,Online App,Net Banking,Bronze,265.46,0,0.0,4.0,38,6,1,0,0
+CUST00832,49,Male,Mumbai,Apparel,Online App,Cash on Delivery,Silver,582.68,0,0.0,3.2,53,4,0,0,0
+CUST00833,18,Male,Pune,Electronics,Online App,Cash on Delivery,Silver,6404.04,0,0.0,3.4,42,4,0,0,0
+CUST00834,29,Male,Pune,Sports & Fitness,In-Store,UPI,Bronze,2539.47,1,32.5,3.3,25,6,0,0,0
+CUST00835,33,Male,Bhopal,Apparel,Website,Credit Card,Bronze,2261.13,1,32.4,4.6,60,8,0,0,0
+CUST00836,58,Female,Mumbai,Electronics,In-Store,Cash on Delivery,Bronze,4731.21,1,5.0,3.4,25,4,1,0,0
+CUST00837,43,Female,Kolkata,Home & Kitchen,In-Store,Credit Card,Silver,2876.84,0,0.0,3.7,137,6,0,1,1
+CUST00838,43,Male,Pune,Electronics,Online App,UPI,Gold,2755.53,1,40.0,3.9,87,5,0,0,0
+CUST00839,42,Female,Chennai,Books,Online App,Net Banking,Bronze,533.05,1,16.3,4.6,40,10,0,1,0
+CUST00840,32,Female,Mumbai,Books,Online App,UPI,Silver,915.04,0,0.0,2.7,33,4,0,0,0
+CUST00841,20,Female,Kolkata,Sports & Fitness,Online App,UPI,Silver,3062.75,1,33.6,4.5,54,5,0,0,0
+CUST00842,29,Female,Jaipur,Home & Kitchen,Online App,UPI,Bronze,2035.26,0,0.0,4.6,10,9,0,0,0
+CUST00843,28,Male,Pune,Books,In-Store,Debit Card,Bronze,258.27,1,26.9,4.6,104,9,0,0,1
+CUST00844,18,Female,Chennai,Electronics,Online App,Cash on Delivery,Bronze,4378.85,0,0.0,4.4,63,7,0,0,0
+CUST00845,38,Female,Jaipur,Sports & Fitness,Website,Cash on Delivery,Bronze,1931.12,1,28.5,4.2,37,7,0,0,0
+CUST00846,37,Male,Delhi,Apparel,Online App,Cash on Delivery,Gold,2217.24,1,30.5,2.7,6,1,0,1,1
+CUST00847,26,Male,Bhopal,Sports & Fitness,Online App,Cash on Delivery,Gold,1355.88,0,0.0,4.3,42,6,0,1,0
+CUST00848,37,Male,Chennai,Beauty & Personal Care,In-Store,Net Banking,Bronze,624.11,1,21.3,3.8,72,4,0,1,0
+CUST00849,53,Male,Mumbai,Home & Kitchen,In-Store,Cash on Delivery,Silver,2049.27,0,0.0,2.9,26,6,0,0,0
+CUST00850,28,Male,Hyderabad,Books,Online App,UPI,Platinum,150.0,0,0.0,4.3,126,4,0,0,0
+CUST00851,42,Male,Mumbai,Beauty & Personal Care,Online App,UPI,Silver,495.99,1,16.7,3.9,98,6,0,0,1
+CUST00852,18,Male,Chennai,Grocery,Online App,Debit Card,Silver,869.04,0,0.0,5.0,20,5,0,0,0
+CUST00853,35,Female,Delhi,Books,Online App,UPI,Bronze,170.72,0,0.0,5.0,94,4,0,0,1
+CUST00854,19,Male,Bangalore,Electronics,In-Store,Net Banking,Bronze,2752.19,1,20.1,4.3,46,4,0,0,0
+CUST00855,23,Male,Pune,Grocery,Online App,UPI,Silver,907.57,0,0.0,4.4,39,7,0,1,0
+CUST00856,47,Male,Ahmedabad,Beauty & Personal Care,Website,Net Banking,Gold,1277.35,1,16.9,3.1,71,7,1,1,0
+CUST00857,23,Female,Bhopal,Home & Kitchen,Website,UPI,Bronze,3333.82,1,7.4,3.3,76,4,0,0,0
+CUST00858,46,Male,Bhopal,Home & Kitchen,Online App,Net Banking,Gold,1962.63,0,0.0,3.2,81,4,0,1,0
+CUST00859,39,Male,Bangalore,Home & Kitchen,Website,Cash on Delivery,Platinum,3417.21,1,15.9,5.0,5,8,1,1,0
+CUST00860,41,Male,Ahmedabad,Home & Kitchen,Website,Debit Card,Bronze,2543.45,0,0.0,3.2,31,4,0,1,0
+CUST00861,19,Male,Hyderabad,Sports & Fitness,In-Store,Cash on Delivery,Gold,1265.52,0,0.0,4.4,38,9,0,0,0
+CUST00862,34,Male,Delhi,Home & Kitchen,Online App,Net Banking,Silver,150.0,1,26.0,3.9,44,8,0,0,0
+CUST00863,24,Female,Jaipur,Home & Kitchen,Online App,Credit Card,Bronze,2211.98,1,36.9,4.0,20,5,0,1,0
+CUST00864,51,Male,Hyderabad,Beauty & Personal Care,Website,Credit Card,Silver,566.0,1,33.5,4.0,121,6,0,0,0
+CUST00865,29,Female,Bangalore,Grocery,In-Store,Debit Card,Bronze,993.47,0,0.0,2.9,3,5,0,0,1
+CUST00866,37,Female,Hyderabad,Books,Website,Debit Card,Bronze,194.16,0,0.0,5.0,28,3,0,0,0
+CUST00867,36,Female,Bangalore,Home & Kitchen,In-Store,Credit Card,Bronze,2053.2,0,0.0,3.9,42,4,0,1,0
+CUST00868,23,Male,Bangalore,Beauty & Personal Care,Website,UPI,Bronze,1096.59,0,0.0,3.5,24,7,0,0,0
+CUST00869,34,Female,Bangalore,Sports & Fitness,In-Store,Cash on Delivery,Gold,1661.07,1,7.3,2.8,17,6,0,1,0
+CUST00870,45,Male,Hyderabad,Sports & Fitness,Online App,Debit Card,Bronze,2964.27,0,0.0,3.2,36,7,0,1,0
+CUST00871,22,Male,Bhopal,Home & Kitchen,Website,Debit Card,Bronze,2694.1,1,14.8,4.4,12,11,0,0,0
+CUST00872,32,Female,Hyderabad,Books,Online App,Net Banking,Gold,519.29,1,10.9,4.6,48,10,0,1,0
+CUST00873,30,Female,Ahmedabad,Sports & Fitness,Website,Debit Card,Gold,1702.16,0,0.0,4.0,94,13,0,1,1
+CUST00874,39,Female,Pune,Sports & Fitness,Online App,Cash on Delivery,Silver,150.0,0,0.0,2.9,37,3,1,0,0
+CUST00875,43,Male,Kolkata,Apparel,Online App,Net Banking,Silver,1511.16,1,18.1,4.0,13,8,0,0,0
+CUST00876,40,Male,Pune,Beauty & Personal Care,Website,Credit Card,Silver,479.57,0,0.0,3.6,1,7,0,0,0
+CUST00877,30,Female,Kolkata,Beauty & Personal Care,Online App,Net Banking,Bronze,969.12,0,0.0,4.1,1,2,0,0,1
+CUST00878,37,Male,Chennai,Electronics,Online App,Cash on Delivery,Silver,1398.05,1,32.5,4.1,109,4,1,0,0
+CUST00879,36,Male,Chennai,Electronics,Website,Debit Card,Bronze,4069.31,0,0.0,5.0,57,7,0,1,0
+CUST00880,18,Female,Hyderabad,Books,Website,Credit Card,Platinum,150.0,1,30.9,3.6,54,9,1,0,0
+CUST00881,44,Female,Pune,Grocery,Online App,Net Banking,Platinum,337.33,1,31.5,2.8,1,9,0,1,0
+CUST00882,40,Male,Kolkata,Apparel,Online App,Credit Card,Silver,1035.2,0,0.0,4.9,26,7,0,1,0
+CUST00883,41,Female,Chennai,Grocery,Online App,Credit Card,Silver,501.16,1,19.6,2.0,89,4,0,1,0
+CUST00884,29,Male,Chennai,Apparel,Website,Credit Card,Bronze,1368.28,1,22.5,3.8,8,8,0,0,0
+CUST00885,24,Male,Kolkata,Beauty & Personal Care,Website,Net Banking,Gold,889.31,1,15.5,4.3,129,9,0,0,1
+CUST00886,42,Male,Bangalore,Apparel,In-Store,Debit Card,Silver,1327.28,1,37.0,3.3,14,5,0,0,0
+CUST00887,28,Female,Hyderabad,Beauty & Personal Care,Online App,Net Banking,Bronze,1239.7,0,0.0,4.5,11,7,0,0,0
+CUST00888,33,Female,Delhi,Apparel,Online App,Cash on Delivery,Bronze,1408.9,1,26.1,3.2,48,5,0,0,0
+CUST00889,32,Female,Pune,Apparel,Online App,Cash on Delivery,Bronze,881.68,0,0.0,4.1,24,7,0,0,0
+CUST00890,35,Female,Kolkata,Apparel,In-Store,Credit Card,Silver,1221.39,0,0.0,2.7,33,6,0,1,0
+CUST00891,32,Male,Bangalore,Grocery,Online App,Net Banking,Gold,1131.75,1,10.6,2.7,86,7,0,0,0
+CUST00892,18,Male,Bhopal,Books,Website,Debit Card,Bronze,279.25,1,20.6,3.1,16,8,0,1,0
+CUST00893,23,Male,Bhopal,Home & Kitchen,In-Store,Net Banking,Silver,2341.04,1,30.8,3.5,14,6,0,1,0
+CUST00894,25,Female,Chennai,Books,In-Store,Debit Card,Bronze,317.2,1,34.7,2.1,55,5,0,0,1
+CUST00895,38,Female,Ahmedabad,Beauty & Personal Care,In-Store,Credit Card,Silver,594.98,0,0.0,3.6,9,2,0,0,0
+CUST00896,18,Male,Pune,Books,Website,UPI,Silver,384.06,1,12.6,4.1,5,11,0,1,0
+CUST00897,32,Male,Chennai,Electronics,Website,Cash on Delivery,Gold,5125.32,0,0.0,3.0,81,4,0,0,0
+CUST00898,32,Male,Ahmedabad,Electronics,Online App,Net Banking,Bronze,1236.06,1,35.0,4.5,8,9,0,0,0
+CUST00899,30,Male,Bangalore,Home & Kitchen,Website,Net Banking,Silver,3091.79,0,0.0,5.0,6,8,0,0,0
+CUST00900,38,Female,Bangalore,Beauty & Personal Care,In-Store,Credit Card,Bronze,1010.53,0,0.0,3.9,19,9,0,0,0
+CUST00901,50,Female,Bangalore,Electronics,Website,UPI,Silver,3699.1,0,0.0,5.0,14,5,0,0,0
+CUST00902,43,Male,Bhopal,Apparel,Online App,UPI,Gold,1760.26,1,27.4,5.0,69,6,0,1,0
+CUST00903,46,Female,Pune,Beauty & Personal Care,Online App,UPI,Bronze,802.24,0,0.0,2.8,39,4,0,0,0
+CUST00904,38,Male,Hyderabad,Electronics,Online App,UPI,Platinum,1438.87,0,0.0,3.2,116,9,0,1,1
+CUST00905,33,Male,Delhi,Grocery,In-Store,Credit Card,Gold,632.92,0,0.0,4.3,174,9,0,1,0
+CUST00906,21,Female,Bhopal,Books,Online App,Credit Card,Platinum,680.09,0,0.0,3.8,101,3,0,0,1
+CUST00907,33,Male,Chennai,Home & Kitchen,Online App,Net Banking,Silver,1905.05,0,0.0,2.3,105,5,0,0,1
+CUST00908,26,Female,Jaipur,Home & Kitchen,Online App,Credit Card,Silver,2552.56,1,22.5,3.2,10,6,1,1,0
+CUST00909,23,Male,Pune,Electronics,Website,Net Banking,Silver,6537.96,1,29.3,4.2,22,6,0,1,0
+CUST00910,46,Female,Ahmedabad,Electronics,Online App,Cash on Delivery,Platinum,4245.01,0,0.0,4.2,24,5,0,1,0
+CUST00911,41,Male,Hyderabad,Electronics,Website,UPI,Bronze,3874.46,1,31.5,2.9,35,5,0,0,1
+CUST00912,48,Female,Ahmedabad,Home & Kitchen,Online App,Net Banking,Bronze,1899.84,0,0.0,4.8,60,6,1,0,0
+CUST00913,35,Female,Chennai,Apparel,Online App,UPI,Silver,850.06,1,27.7,3.5,82,6,0,0,0
+CUST00914,37,Female,Chennai,Apparel,Online App,UPI,Platinum,1206.86,1,13.7,4.7,40,9,0,1,0
+CUST00915,40,Female,Bhopal,Home & Kitchen,Online App,UPI,Bronze,1483.33,0,0.0,4.4,42,8,1,0,0
+CUST00916,44,Male,Hyderabad,Apparel,Online App,Cash on Delivery,Silver,746.03,1,12.2,3.9,63,4,0,0,0
+CUST00917,41,Female,Pune,Apparel,Website,Credit Card,Silver,1311.45,1,15.6,4.8,5,6,0,1,0
+CUST00918,40,Male,Pune,Grocery,Website,UPI,Platinum,615.02,0,0.0,5.0,103,6,0,0,1
+CUST00919,46,Female,Bhopal,Sports & Fitness,Website,Credit Card,Gold,1528.18,1,5.7,5.0,19,2,0,1,0
+CUST00920,28,Female,Jaipur,Sports & Fitness,Online App,Credit Card,Bronze,1271.32,0,0.0,3.3,157,3,0,0,1
+CUST00921,35,Female,Delhi,Home & Kitchen,Online App,Net Banking,Bronze,1218.69,1,5.1,3.7,2,4,0,1,0
+CUST00922,32,Female,Ahmedabad,Beauty & Personal Care,In-Store,Net Banking,Platinum,1122.5,0,0.0,4.2,17,9,0,1,0
+CUST00923,21,Male,Kolkata,Electronics,In-Store,UPI,Bronze,1431.4,1,11.8,4.8,3,12,0,0,0
+CUST00924,18,Female,Bhopal,Books,Website,Debit Card,Silver,541.63,1,37.4,4.7,0,4,0,0,0
+CUST00925,44,Male,Chennai,Books,Website,UPI,Silver,174.64,1,14.1,2.6,8,5,0,1,0
+CUST00926,35,Female,Hyderabad,Sports & Fitness,Website,Credit Card,Bronze,2647.44,1,27.6,2.7,14,8,1,0,0
+CUST00927,23,Male,Bhopal,Apparel,In-Store,Credit Card,Gold,1194.63,0,0.0,3.1,45,8,0,1,0
+CUST00928,29,Female,Jaipur,Home & Kitchen,Website,UPI,Bronze,2392.78,1,32.9,3.5,13,6,0,0,0
+CUST00929,27,Male,Kolkata,Books,Online App,Credit Card,Gold,516.66,0,0.0,4.2,10,8,0,1,0
+CUST00930,27,Female,Pune,Books,Online App,Credit Card,Bronze,373.57,1,11.9,4.3,0,2,0,1,1
+CUST00931,38,Female,Jaipur,Grocery,Online App,Credit Card,Bronze,882.52,0,0.0,3.5,31,8,0,0,0
+CUST00932,19,Female,Ahmedabad,Books,In-Store,UPI,Gold,313.24,0,0.0,3.3,194,6,0,0,1
+CUST00933,43,Female,Delhi,Home & Kitchen,Online App,Credit Card,Silver,3274.29,1,8.5,2.4,46,3,0,1,0
+CUST00934,54,Male,Jaipur,Grocery,In-Store,UPI,Bronze,607.21,1,18.1,4.3,29,4,0,1,0
+CUST00935,29,Female,Ahmedabad,Beauty & Personal Care,Website,Cash on Delivery,Silver,753.8,0,0.0,4.0,37,9,1,1,0
+CUST00936,18,Male,Chennai,Books,Online App,Cash on Delivery,Bronze,700.46,0,0.0,3.7,66,5,0,0,0
+CUST00937,34,Female,Kolkata,Books,In-Store,Credit Card,Bronze,420.88,0,0.0,4.2,180,8,0,1,1
+CUST00938,42,Male,Chennai,Beauty & Personal Care,Website,Net Banking,Silver,931.42,1,5.1,3.0,19,7,0,1,0
+CUST00939,34,Female,Mumbai,Books,Online App,UPI,Platinum,419.43,1,28.7,2.4,44,9,0,0,0
+CUST00940,22,Male,Chennai,Beauty & Personal Care,In-Store,Net Banking,Platinum,794.4,1,36.7,3.5,15,4,0,0,0
+CUST00941,20,Male,Bangalore,Grocery,Website,Cash on Delivery,Gold,418.51,1,6.1,3.2,3,8,0,0,0
+CUST00942,38,Female,Bangalore,Beauty & Personal Care,In-Store,Net Banking,Silver,436.69,0,0.0,4.3,113,10,0,1,1
+CUST00943,18,Male,Delhi,Beauty & Personal Care,In-Store,UPI,Bronze,825.37,1,36.6,4.5,3,5,0,0,0
+CUST00944,53,Female,Ahmedabad,Books,Online App,Credit Card,Platinum,550.57,1,22.2,3.5,116,7,0,0,1
+CUST00945,37,Male,Jaipur,Grocery,In-Store,UPI,Silver,778.47,0,0.0,4.2,32,8,0,1,0
+CUST00946,35,Female,Bhopal,Grocery,Online App,Credit Card,Bronze,596.58,0,0.0,4.1,17,7,0,0,0
+CUST00947,34,Male,Delhi,Sports & Fitness,Online App,Debit Card,Platinum,1694.18,1,5.1,3.7,40,5,0,0,0
+CUST00948,24,Female,Kolkata,Home & Kitchen,Website,Credit Card,Silver,2533.42,1,12.8,3.8,17,6,0,0,0
+CUST00949,38,Female,Chennai,Apparel,In-Store,Debit Card,Gold,1180.51,0,0.0,3.8,97,5,0,1,0
+CUST00950,36,Male,Mumbai,Sports & Fitness,Online App,Cash on Delivery,Platinum,2832.22,0,0.0,2.2,86,6,1,1,0
+CUST00951,47,Female,Hyderabad,Beauty & Personal Care,Online App,Net Banking,Bronze,629.5,1,10.3,4.8,35,7,0,1,0
+CUST00952,35,Male,Mumbai,Grocery,Website,Net Banking,Gold,640.84,0,0.0,3.2,183,7,0,1,1
+CUST00953,22,Male,Mumbai,Sports & Fitness,Online App,Net Banking,Silver,1676.33,1,31.5,4.4,70,10,0,0,0
+CUST00954,34,Female,Pune,Books,In-Store,Cash on Delivery,Bronze,626.27,0,0.0,3.7,9,5,0,0,0
+CUST00955,31,Male,Pune,Beauty & Personal Care,Website,Cash on Delivery,Bronze,754.31,1,15.2,4.8,42,6,0,0,0
+CUST00956,55,Male,Mumbai,Home & Kitchen,Website,Cash on Delivery,Bronze,2527.51,1,35.0,4.4,48,8,0,1,0
+CUST00957,37,Male,Mumbai,Electronics,Online App,Net Banking,Bronze,3467.12,0,0.0,4.6,244,7,1,1,1
+CUST00958,27,Female,Bangalore,Books,Website,Credit Card,Bronze,550.05,0,0.0,3.7,14,6,0,1,0
+CUST00959,47,Male,Kolkata,Grocery,Website,UPI,Gold,501.81,1,27.8,3.1,86,6,0,1,0
+CUST00960,36,Female,Mumbai,Electronics,Online App,UPI,Silver,3823.23,1,22.8,3.4,25,5,0,0,0
+CUST00961,22,Female,Pune,Books,Website,Cash on Delivery,Bronze,389.04,0,0.0,5.0,35,7,0,0,0
+CUST00962,18,Male,Delhi,Home & Kitchen,Online App,Cash on Delivery,Bronze,3302.06,1,5.7,4.9,1,6,0,0,0
+CUST00963,44,Female,Delhi,Sports & Fitness,In-Store,Cash on Delivery,Gold,2559.46,1,9.3,4.1,25,7,0,1,0
+CUST00964,60,Male,Bangalore,Grocery,Website,Credit Card,Bronze,372.96,0,0.0,4.9,70,3,0,0,0
+CUST00965,18,Male,Bangalore,Electronics,Website,UPI,Bronze,6304.09,0,0.0,4.4,32,8,0,1,0
+CUST00966,19,Male,Kolkata,Books,Online App,Debit Card,Bronze,437.72,1,36.7,2.6,69,4,0,0,1
+CUST00967,32,Male,Jaipur,Beauty & Personal Care,Website,Cash on Delivery,Platinum,369.45,1,26.2,3.6,217,4,0,1,0
+CUST00968,41,Male,Hyderabad,Electronics,Online App,Debit Card,Gold,6522.17,0,0.0,4.5,67,10,0,0,0
+CUST00969,29,Female,Pune,Apparel,Website,Net Banking,Bronze,1145.53,0,0.0,5.0,5,8,0,1,0
+CUST00970,18,Female,Ahmedabad,Electronics,In-Store,Net Banking,Platinum,5011.04,0,0.0,3.9,10,5,0,1,0
+CUST00971,18,Female,Hyderabad,Books,Online App,Cash on Delivery,Silver,175.75,0,0.0,3.9,13,7,0,1,0
+CUST00972,37,Female,Kolkata,Electronics,In-Store,Credit Card,Bronze,4057.21,0,0.0,4.3,31,8,0,0,0
+CUST00973,33,Male,Chennai,Books,Online App,Debit Card,Gold,530.7,0,0.0,2.7,70,9,0,0,0
+CUST00974,38,Male,Kolkata,Apparel,Online App,UPI,Gold,1901.29,0,0.0,3.9,7,7,0,1,0
+CUST00975,40,Female,Delhi,Sports & Fitness,Online App,Cash on Delivery,Gold,1014.1,1,26.3,3.5,17,7,1,0,0
+CUST00976,40,Female,Bangalore,Home & Kitchen,In-Store,Cash on Delivery,Silver,2315.05,1,19.1,3.4,7,5,0,0,0
+CUST00977,39,Male,Bangalore,Apparel,Online App,Debit Card,Bronze,1079.5,1,39.1,4.1,104,7,0,0,1
+CUST00978,53,Female,Ahmedabad,Apparel,Online App,Debit Card,Gold,1615.18,0,0.0,2.9,127,7,0,0,1
+CUST00979,18,Male,Pune,Books,In-Store,Debit Card,Silver,590.66,0,0.0,3.7,160,2,0,0,1
+CUST00980,37,Male,Delhi,Apparel,Website,UPI,Gold,916.41,1,22.2,5.0,171,7,0,1,1
+CUST00981,35,Female,Bhopal,Books,Online App,Net Banking,Silver,625.77,1,36.1,2.0,9,6,0,0,0
+CUST00982,31,Male,Mumbai,Books,Online App,Cash on Delivery,Gold,581.44,0,0.0,3.6,68,3,0,1,0
+CUST00983,18,Male,Jaipur,Beauty & Personal Care,In-Store,Cash on Delivery,Platinum,525.78,0,0.0,3.1,64,5,0,0,0
+CUST00984,28,Female,Mumbai,Beauty & Personal Care,Website,Credit Card,Bronze,1463.04,0,0.0,4.6,51,5,1,0,0
+CUST00985,29,Male,Pune,Home & Kitchen,Website,Debit Card,Bronze,2643.65,1,24.9,4.0,10,5,0,0,0
+CUST00986,32,Male,Ahmedabad,Sports & Fitness,In-Store,UPI,Bronze,2920.4,1,16.5,4.1,82,3,0,0,0
+CUST00987,29,Male,Kolkata,Home & Kitchen,Online App,Net Banking,Silver,2923.4,0,0.0,5.0,25,7,0,0,0
+CUST00988,34,Male,Ahmedabad,Electronics,Online App,Debit Card,Bronze,4178.52,0,0.0,3.9,0,4,0,0,0
+CUST00989,36,Male,Bhopal,Grocery,Online App,Net Banking,Silver,386.61,0,0.0,5.0,13,4,0,1,0
+CUST00990,44,Male,Chennai,Grocery,Website,UPI,Bronze,762.68,0,0.0,3.1,51,7,0,1,0
+CUST00991,43,Male,Bangalore,Books,Online App,Net Banking,Platinum,505.91,1,9.2,5.0,12,7,0,0,0
+CUST00992,38,Male,Chennai,Grocery,Website,Net Banking,Silver,683.49,1,34.5,3.9,5,4,0,0,0
+CUST00993,41,Male,Mumbai,Apparel,Online App,Cash on Delivery,Bronze,1462.91,1,6.8,3.3,10,8,0,0,0
+CUST00994,24,Male,Kolkata,Beauty & Personal Care,Online App,Net Banking,Bronze,1528.84,0,0.0,2.0,36,10,0,1,0
+CUST00995,24,Male,Hyderabad,Home & Kitchen,Website,Debit Card,Platinum,1354.51,0,0.0,4.1,3,6,0,0,0
+CUST00996,41,Male,Bhopal,Sports & Fitness,Online App,Cash on Delivery,Silver,1301.19,0,0.0,2.8,110,4,0,0,1
+CUST00997,23,Female,Hyderabad,Apparel,Online App,Cash on Delivery,Bronze,1536.67,1,18.3,4.7,23,8,0,1,0
+CUST00998,40,Male,Hyderabad,Home & Kitchen,Online App,UPI,Silver,2032.73,1,15.7,4.6,8,5,0,0,0
+CUST00999,26,Female,Kolkata,Apparel,Online App,UPI,Bronze,1602.1,0,0.0,5.0,47,6,0,0,0
+CUST01000,45,Female,Ahmedabad,Home & Kitchen,In-Store,UPI,Silver,1674.3,0,0.0,4.0,18,8,0,0,0
+CUST01001,36,Male,Delhi,Books,Online App,Cash on Delivery,Gold,567.86,0,0.0,4.4,25,9,0,1,0
+CUST01002,23,Female,Hyderabad,Books,Online App,Cash on Delivery,Bronze,605.71,1,9.6,3.2,57,6,0,0,0
+CUST01003,40,Male,Hyderabad,Books,Online App,UPI,Bronze,807.42,0,0.0,4.0,55,4,0,1,0
+CUST01004,31,Male,Bhopal,Books,Online App,Credit Card,Bronze,497.13,1,13.8,5.0,16,4,0,1,0
+CUST01005,39,Female,Chennai,Beauty & Personal Care,Website,UPI,Platinum,381.74,0,0.0,4.0,49,5,0,1,0
+CUST01006,36,Male,Bangalore,Sports & Fitness,Online App,Credit Card,Bronze,1482.55,1,7.1,2.9,1,2,1,0,1
+CUST01007,29,Female,Ahmedabad,Books,Website,Cash on Delivery,Platinum,643.11,0,0.0,3.6,17,8,0,0,0
+CUST01008,38,Female,Kolkata,Sports & Fitness,Online App,Credit Card,Bronze,2354.44,1,25.7,5.0,8,9,0,1,0
+CUST01009,49,Female,Bhopal,Books,Website,Debit Card,Bronze,486.13,0,0.0,2.0,15,10,0,0,1
+CUST01010,26,Male,Hyderabad,Electronics,Website,Debit Card,Bronze,3541.57,0,0.0,4.5,17,5,1,1,0
+CUST01011,35,Female,Mumbai,Books,In-Store,Credit Card,Silver,419.35,0,0.0,3.8,32,5,0,1,0
+CUST01012,39,Female,Chennai,Electronics,In-Store,Cash on Delivery,Bronze,4388.08,0,0.0,3.7,5,5,1,0,0
+CUST01013,20,Male,Mumbai,Grocery,Online App,Debit Card,Bronze,586.32,1,23.8,4.5,38,6,1,1,0
+CUST01014,29,Male,Kolkata,Books,Online App,Cash on Delivery,Silver,367.74,1,12.7,2.6,94,6,0,0,1
+CUST01015,34,Female,Bangalore,Beauty & Personal Care,Online App,Net Banking,Bronze,1106.94,1,8.3,4.4,67,7,0,0,0
+CUST01016,18,Male,Hyderabad,Sports & Fitness,Website,Credit Card,Silver,3239.82,0,0.0,3.0,49,6,0,0,0
+CUST01017,19,Female,Jaipur,Apparel,Online App,UPI,Silver,680.07,0,0.0,4.1,8,6,0,0,0
+CUST01018,57,Male,Mumbai,Sports & Fitness,Online App,Net Banking,Bronze,2847.42,1,31.7,5.0,75,10,0,0,0
+CUST01019,30,Male,Delhi,Home & Kitchen,Online App,Cash on Delivery,Bronze,2554.21,1,38.5,4.5,25,9,0,1,0
+CUST01020,32,Female,Delhi,Apparel,Online App,Cash on Delivery,Gold,881.91,1,15.8,4.0,8,3,0,0,0
+CUST01021,24,Female,Bhopal,Electronics,Online App,UPI,Bronze,2512.75,0,0.0,2.6,97,5,0,1,1
+CUST01022,35,Male,Mumbai,Apparel,Online App,Net Banking,Bronze,970.29,0,0.0,4.4,2,8,0,1,0
+CUST01023,30,Female,Delhi,Beauty & Personal Care,Online App,UPI,Bronze,954.55,1,14.9,3.2,32,5,0,0,0
+CUST01024,40,Female,Delhi,Electronics,Website,Credit Card,Silver,3054.84,0,0.0,3.9,5,7,0,0,0
+CUST01025,36,Female,Jaipur,Grocery,Online App,UPI,Bronze,340.52,0,0.0,5.0,8,11,0,0,0
+CUST01026,42,Male,Mumbai,Grocery,In-Store,Credit Card,Gold,547.06,0,0.0,3.4,13,4,0,0,0
+CUST01027,18,Female,Delhi,Electronics,Website,Debit Card,Bronze,7334.26,0,0.0,4.9,25,12,0,1,0
+CUST01028,38,Female,Chennai,Beauty & Personal Care,Online App,Net Banking,Silver,326.84,1,9.8,4.5,1,7,1,1,0
+CUST01029,43,Female,Kolkata,Sports & Fitness,Website,Cash on Delivery,Silver,1887.31,0,0.0,3.1,89,9,0,0,0
+CUST01030,52,Female,Bhopal,Sports & Fitness,Website,Credit Card,Gold,1079.41,0,0.0,4.6,0,6,0,1,0
+CUST01031,29,Male,Chennai,Sports & Fitness,Website,Credit Card,Platinum,358.77,0,0.0,3.3,10,8,0,1,0
+CUST01032,23,Male,Pune,Beauty & Personal Care,Online App,Cash on Delivery,Platinum,1613.36,1,13.5,2.5,33,5,0,0,0
+CUST01033,23,Male,Delhi,Books,Website,Net Banking,Gold,472.31,1,19.9,5.0,10,7,0,0,0
+CUST01034,40,Male,Ahmedabad,Grocery,Website,Credit Card,Bronze,476.99,0,0.0,2.6,4,7,0,0,0
+CUST01035,20,Female,Bangalore,Grocery,Online App,Credit Card,Gold,498.86,1,15.5,4.0,40,3,0,0,0
+CUST01036,21,Male,Pune,Electronics,Online App,UPI,Silver,4971.11,0,0.0,2.7,53,8,0,0,0
+CUST01037,33,Female,Ahmedabad,Sports & Fitness,Website,Debit Card,Platinum,1743.42,0,0.0,5.0,12,11,0,0,0
+CUST01038,34,Male,Pune,Electronics,Website,Credit Card,Gold,4506.45,0,0.0,3.7,36,9,0,0,0
+CUST01039,33,Male,Ahmedabad,Beauty & Personal Care,Online App,Net Banking,Gold,719.28,0,0.0,4.9,82,9,0,1,0
+CUST01040,20,Male,Pune,Electronics,Online App,Debit Card,Silver,4343.37,1,6.0,3.4,79,6,0,0,0
+CUST01041,45,Male,Hyderabad,Sports & Fitness,Online App,Debit Card,Bronze,2479.71,0,0.0,2.8,8,6,1,0,0
+CUST01042,47,Male,Jaipur,Sports & Fitness,Online App,Net Banking,Bronze,1607.11,0,0.0,3.3,1,7,1,0,0
+CUST01043,28,Female,Pune,Beauty & Personal Care,Website,Debit Card,Gold,556.86,1,39.1,4.2,56,6,0,0,0
+CUST01044,21,Female,Bhopal,Electronics,Website,Credit Card,Bronze,5098.57,1,21.7,2.5,141,5,0,0,1
+CUST01045,24,Male,Bangalore,Books,Website,UPI,Platinum,683.93,0,0.0,3.9,10,10,0,1,0
+CUST01046,24,Male,Bangalore,Sports & Fitness,Website,Cash on Delivery,Silver,1107.26,1,16.9,3.9,9,8,0,0,0
+CUST01047,22,Female,Jaipur,Grocery,In-Store,UPI,Gold,363.39,1,18.6,4.0,89,7,0,1,0
+CUST01048,18,Male,Bangalore,Sports & Fitness,Website,Net Banking,Bronze,2284.12,0,0.0,5.0,25,8,0,0,0
+CUST01049,29,Male,Ahmedabad,Electronics,Website,Credit Card,Platinum,5782.51,0,0.0,3.3,19,8,0,0,0
+CUST01050,18,Male,Delhi,Apparel,Website,Net Banking,Bronze,825.21,0,0.0,5.0,37,7,0,1,0
+CUST01051,43,Male,Delhi,Sports & Fitness,Website,Debit Card,Gold,660.29,0,0.0,4.3,8,4,0,1,0
+CUST01052,21,Male,Ahmedabad,Home & Kitchen,Website,Cash on Delivery,Platinum,1242.0,0,0.0,5.0,2,3,0,0,0
+CUST01053,24,Female,Mumbai,Sports & Fitness,In-Store,UPI,Gold,887.56,0,0.0,4.6,9,3,0,0,0
+CUST01054,37,Male,Pune,Beauty & Personal Care,Online App,Net Banking,Gold,870.77,0,0.0,4.7,3,12,0,1,0
+CUST01055,32,Female,Ahmedabad,Beauty & Personal Care,Website,Net Banking,Bronze,1021.89,0,0.0,1.7,144,10,0,1,1
+CUST01056,39,Female,Kolkata,Apparel,Online App,UPI,Bronze,997.86,1,22.0,4.3,69,5,0,0,0
+CUST01057,48,Female,Ahmedabad,Electronics,Website,Net Banking,Bronze,3214.72,0,0.0,4.7,33,5,0,1,0
+CUST01058,53,Female,Mumbai,Grocery,Online App,Net Banking,Platinum,571.09,0,0.0,3.9,4,4,0,0,0
+CUST01059,35,Female,Pune,Home & Kitchen,Website,UPI,Bronze,2040.23,0,0.0,3.9,51,5,0,1,0
+CUST01060,36,Female,Kolkata,Sports & Fitness,Online App,Debit Card,Bronze,2270.39,0,0.0,3.7,4,5,1,0,0
+CUST01061,34,Female,Bangalore,Apparel,Online App,Net Banking,Silver,1561.27,0,0.0,3.4,40,8,0,1,0
+CUST01062,45,Female,Chennai,Books,Website,UPI,Silver,184.11,1,11.9,3.4,6,8,0,0,0
+CUST01063,29,Male,Chennai,Books,In-Store,Debit Card,Bronze,150.0,1,37.7,3.3,72,6,0,0,0
+CUST01064,18,Female,Pune,Sports & Fitness,Website,Net Banking,Platinum,2792.14,1,27.2,5.0,88,6,0,0,0
+CUST01065,30,Male,Hyderabad,Books,In-Store,Net Banking,Silver,484.52,1,26.0,3.2,19,8,0,0,0
+CUST01066,34,Male,Jaipur,Electronics,Online App,Debit Card,Bronze,4583.18,1,22.6,4.6,34,6,0,1,0
+CUST01067,25,Female,Kolkata,Beauty & Personal Care,Online App,Cash on Delivery,Silver,1259.94,1,16.8,3.2,24,6,1,0,0
+CUST01068,25,Female,Bangalore,Sports & Fitness,Website,Cash on Delivery,Silver,1426.94,0,0.0,3.4,28,2,0,1,0
+CUST01069,22,Female,Jaipur,Grocery,Online App,UPI,Gold,903.82,0,0.0,5.0,98,4,0,1,0
+CUST01070,18,Female,Delhi,Beauty & Personal Care,Website,Cash on Delivery,Platinum,217.95,0,0.0,3.8,83,4,0,0,0
+CUST01071,47,Male,Pune,Grocery,Online App,Credit Card,Gold,1050.43,1,9.0,4.3,26,11,0,1,0
+CUST01072,40,Female,Ahmedabad,Beauty & Personal Care,In-Store,Net Banking,Bronze,1641.85,0,0.0,5.0,160,3,0,0,1
+CUST01073,40,Female,Pune,Grocery,In-Store,Net Banking,Silver,300.52,0,0.0,3.6,94,5,1,0,0
+CUST01074,55,Male,Bangalore,Grocery,Online App,Cash on Delivery,Gold,150.0,1,16.7,4.8,98,10,1,1,1
+CUST01075,27,Male,Bhopal,Beauty & Personal Care,Online App,Net Banking,Gold,895.72,1,25.2,3.3,44,4,0,1,0
+CUST01076,39,Male,Kolkata,Home & Kitchen,Website,Net Banking,Bronze,3079.68,1,9.4,4.7,31,6,0,0,0
+CUST01077,29,Female,Pune,Grocery,Website,Debit Card,Bronze,778.65,0,0.0,3.4,36,5,0,1,0
+CUST01078,27,Male,Mumbai,Sports & Fitness,Website,UPI,Silver,1404.63,0,0.0,3.4,18,9,0,1,0
+CUST01079,47,Female,Bangalore,Apparel,Website,Credit Card,Bronze,1821.6,0,0.0,3.6,222,4,0,1,1
+CUST01080,27,Female,Pune,Books,Online App,UPI,Platinum,325.71,1,27.3,3.4,38,4,0,0,0
+CUST01081,33,Female,Jaipur,Electronics,Online App,Debit Card,Bronze,7149.08,0,0.0,4.1,63,12,0,1,0
+CUST01082,25,Male,Kolkata,Electronics,Website,UPI,Silver,2750.91,0,0.0,3.1,11,5,0,0,0
+CUST01083,39,Female,Kolkata,Home & Kitchen,Website,Net Banking,Gold,2495.03,0,0.0,4.7,74,5,0,0,0
+CUST01084,35,Male,Delhi,Home & Kitchen,In-Store,Net Banking,Platinum,1378.13,1,5.2,3.0,5,2,0,0,0
+CUST01085,18,Male,Hyderabad,Sports & Fitness,Online App,UPI,Silver,2195.06,1,12.6,3.8,47,4,0,1,0
+CUST01086,18,Male,Chennai,Apparel,Online App,Credit Card,Bronze,1171.25,0,0.0,2.4,3,3,1,0,1
+CUST01087,38,Female,Ahmedabad,Books,In-Store,Net Banking,Silver,469.17,0,0.0,3.8,60,4,0,0,0
+CUST01088,47,Female,Kolkata,Electronics,Website,Cash on Delivery,Bronze,3767.37,1,38.4,5.0,34,4,0,1,0
+CUST01089,34,Female,Jaipur,Books,Online App,Debit Card,Silver,641.19,1,20.0,2.4,15,9,0,0,0
+CUST01090,25,Male,Ahmedabad,Apparel,In-Store,Cash on Delivery,Bronze,1084.12,0,0.0,4.7,3,7,0,1,0
+CUST01091,36,Female,Kolkata,Electronics,Online App,Debit Card,Silver,5558.27,0,0.0,4.9,82,7,0,0,0
+CUST01092,42,Female,Chennai,Apparel,Website,UPI,Bronze,1414.64,1,30.1,5.0,81,5,0,0,0
+CUST01093,36,Female,Hyderabad,Sports & Fitness,Online App,Debit Card,Silver,1027.33,0,0.0,3.8,61,5,0,0,0
+CUST01094,44,Male,Jaipur,Books,Online App,Net Banking,Bronze,482.87,0,0.0,2.9,9,1,0,1,1
+CUST01095,18,Female,Mumbai,Home & Kitchen,Online App,UPI,Silver,3193.37,1,25.7,3.9,9,6,0,0,0
+CUST01096,36,Male,Jaipur,Electronics,In-Store,Debit Card,Bronze,4872.02,1,6.3,3.8,3,11,0,0,0
+CUST01097,40,Female,Mumbai,Electronics,Website,Net Banking,Gold,1576.95,0,0.0,4.6,149,10,0,0,0
+CUST01098,44,Female,Ahmedabad,Sports & Fitness,Online App,Debit Card,Silver,1633.01,0,0.0,3.7,83,4,0,1,0
+CUST01099,35,Male,Chennai,Sports & Fitness,Online App,Credit Card,Bronze,1265.29,0,0.0,3.4,89,6,0,0,0
+CUST01100,21,Female,Hyderabad,Apparel,Online App,Debit Card,Gold,1906.23,0,0.0,3.8,111,9,0,1,1
+CUST01101,37,Male,Pune,Grocery,Online App,UPI,Platinum,605.09,0,0.0,3.1,10,3,0,1,0
+CUST01102,19,Female,Pune,Books,Online App,Credit Card,Silver,417.89,0,0.0,3.1,75,7,0,0,0
+CUST01103,38,Female,Ahmedabad,Books,Online App,Cash on Delivery,Bronze,264.16,0,0.0,3.4,9,5,0,0,0
+CUST01104,31,Female,Hyderabad,Electronics,Online App,Debit Card,Gold,4449.57,0,0.0,5.0,77,12,0,0,0
+CUST01105,40,Male,Delhi,Electronics,In-Store,UPI,Bronze,4142.4,1,21.4,4.2,40,6,0,0,0
+CUST01106,23,Female,Hyderabad,Grocery,Website,Cash on Delivery,Silver,1156.28,0,0.0,3.6,14,4,1,1,0
+CUST01107,46,Male,Bhopal,Electronics,In-Store,Credit Card,Platinum,6246.83,0,0.0,4.3,52,8,0,1,0
+CUST01108,34,Male,Kolkata,Apparel,Online App,Net Banking,Bronze,610.98,0,0.0,4.3,35,3,0,1,0
+CUST01109,34,Male,Ahmedabad,Electronics,Website,Credit Card,Bronze,4189.41,0,0.0,5.0,19,6,0,0,0
+CUST01110,19,Female,Chennai,Home & Kitchen,Online App,Cash on Delivery,Bronze,1123.1,0,0.0,1.7,54,4,0,0,1
+CUST01111,37,Female,Mumbai,Beauty & Personal Care,Online App,UPI,Bronze,1562.37,0,0.0,4.9,45,5,1,0,0
+CUST01112,18,Male,Kolkata,Apparel,Website,Cash on Delivery,Silver,1448.51,0,0.0,3.3,80,4,0,0,0
+CUST01113,30,Male,Delhi,Apparel,Online App,UPI,Silver,1285.76,0,0.0,1.0,16,4,0,0,0
+CUST01114,29,Female,Kolkata,Beauty & Personal Care,Online App,Debit Card,Silver,767.61,0,0.0,4.6,39,2,0,1,0
+CUST01115,30,Female,Mumbai,Electronics,Online App,Cash on Delivery,Silver,6029.36,0,0.0,2.2,27,5,1,0,0
+CUST01116,53,Female,Delhi,Apparel,Online App,Net Banking,Bronze,1416.03,0,0.0,3.4,57,10,0,0,0
+CUST01117,30,Male,Pune,Electronics,Online App,UPI,Silver,6223.53,1,25.4,3.5,30,7,0,0,0
+CUST01118,26,Male,Mumbai,Grocery,Online App,Debit Card,Gold,435.52,0,0.0,4.5,101,11,0,0,0
+CUST01119,29,Male,Delhi,Home & Kitchen,In-Store,Debit Card,Silver,3549.1,1,39.6,3.8,78,6,0,0,0
+CUST01120,46,Female,Ahmedabad,Electronics,In-Store,Debit Card,Gold,6810.04,1,32.1,3.8,58,5,0,1,0
+CUST01121,28,Female,Delhi,Home & Kitchen,Website,UPI,Bronze,1264.33,0,0.0,3.4,9,9,0,1,0
+CUST01122,27,Female,Ahmedabad,Electronics,Online App,Net Banking,Bronze,3206.73,1,11.8,4.6,65,2,1,1,1
+CUST01123,41,Female,Bhopal,Beauty & Personal Care,In-Store,Cash on Delivery,Bronze,1109.21,1,17.2,3.9,54,3,0,0,0
+CUST01124,31,Female,Pune,Apparel,Online App,Cash on Delivery,Gold,751.95,1,9.3,4.3,9,5,0,0,0
+CUST01125,26,Female,Pune,Electronics,In-Store,Net Banking,Platinum,5190.88,0,0.0,3.9,39,6,0,0,0
+CUST01126,31,Female,Jaipur,Sports & Fitness,Website,Debit Card,Silver,1583.59,0,0.0,3.5,16,7,0,0,0
+CUST01127,31,Male,Pune,Grocery,Website,UPI,Silver,383.69,0,0.0,3.5,6,4,0,1,0
+CUST01128,21,Male,Pune,Apparel,Online App,Debit Card,Gold,1580.83,0,0.0,3.6,83,13,1,0,0
+CUST01129,37,Male,Pune,Apparel,In-Store,Credit Card,Silver,1354.81,1,15.2,2.8,1,9,0,1,0
+CUST01130,45,Male,Kolkata,Beauty & Personal Care,Online App,UPI,Gold,925.97,1,25.9,5.0,33,3,0,0,0
+CUST01131,26,Female,Jaipur,Apparel,Website,Credit Card,Bronze,1146.8,0,0.0,4.0,1,6,0,0,0
+CUST01132,50,Female,Jaipur,Books,Website,Credit Card,Bronze,729.77,1,20.3,5.0,59,7,0,0,0
+CUST01133,24,Female,Bhopal,Books,Website,Net Banking,Bronze,467.55,0,0.0,3.7,57,5,1,0,0
+CUST01134,41,Male,Kolkata,Electronics,Website,Cash on Delivery,Platinum,2502.7,1,25.3,2.4,101,8,0,1,1
+CUST01135,37,Female,Mumbai,Grocery,In-Store,Credit Card,Silver,553.05,0,0.0,3.2,1,8,0,1,0
+CUST01136,42,Female,Mumbai,Electronics,Online App,UPI,Bronze,5445.3,0,0.0,1.8,110,4,0,0,1
+CUST01137,26,Female,Mumbai,Electronics,Website,Cash on Delivery,Gold,4229.68,0,0.0,3.5,81,5,0,0,0
+CUST01138,32,Female,Bangalore,Apparel,In-Store,Credit Card,Bronze,1860.26,0,0.0,3.4,26,6,1,0,0
+CUST01139,30,Female,Jaipur,Books,Online App,UPI,Bronze,601.49,1,9.2,4.1,122,4,0,0,1
+CUST01140,40,Female,Mumbai,Grocery,Website,Net Banking,Bronze,867.28,0,0.0,3.9,25,9,0,1,0
+CUST01141,51,Male,Bhopal,Home & Kitchen,In-Store,Net Banking,Gold,2140.14,1,20.1,4.2,12,6,0,0,0
+CUST01142,22,Male,Bangalore,Sports & Fitness,Website,Cash on Delivery,Bronze,3557.7,0,0.0,4.4,37,6,0,0,0
+CUST01143,56,Female,Chennai,Books,Online App,Net Banking,Silver,527.97,0,0.0,3.9,79,8,0,0,0
+CUST01144,26,Male,Pune,Beauty & Personal Care,Online App,Net Banking,Bronze,439.66,0,0.0,2.8,190,4,0,1,1
+CUST01145,49,Female,Mumbai,Home & Kitchen,In-Store,Net Banking,Gold,1838.97,0,0.0,4.2,4,11,0,0,0
+CUST01146,20,Male,Chennai,Books,Website,Cash on Delivery,Bronze,612.36,1,17.3,3.2,86,11,0,0,0
+CUST01147,45,Male,Pune,Grocery,Website,Debit Card,Platinum,694.78,0,0.0,2.8,98,5,0,0,1
+CUST01148,18,Female,Jaipur,Books,Online App,Cash on Delivery,Gold,335.89,0,0.0,4.4,53,7,0,0,0
+CUST01149,48,Female,Jaipur,Sports & Fitness,In-Store,UPI,Bronze,2177.9,1,10.6,4.6,42,10,0,0,0
+CUST01150,30,Female,Chennai,Grocery,Online App,Credit Card,Bronze,820.44,1,30.5,4.4,18,5,0,1,0
+CUST01151,45,Male,Mumbai,Sports & Fitness,Online App,UPI,Gold,1797.02,0,0.0,4.1,8,3,0,1,0
+CUST01152,31,Male,Bangalore,Home & Kitchen,Online App,Net Banking,Bronze,1830.53,1,25.1,3.9,56,6,0,0,0
+CUST01153,39,Female,Pune,Apparel,Online App,Credit Card,Silver,947.64,0,0.0,2.9,16,5,0,0,0
+CUST01154,40,Male,Delhi,Apparel,Online App,Credit Card,Gold,1592.75,0,0.0,4.0,31,4,0,0,0
+CUST01155,18,Male,Chennai,Apparel,Website,Cash on Delivery,Silver,1433.42,1,25.0,2.9,121,5,0,0,1
+CUST01156,35,Male,Delhi,Beauty & Personal Care,Online App,Net Banking,Gold,1138.78,1,9.5,5.0,120,6,0,0,0
+CUST01157,42,Female,Hyderabad,Electronics,Website,Debit Card,Bronze,3971.63,1,15.1,5.0,25,4,0,0,0
+CUST01158,38,Female,Delhi,Grocery,In-Store,Debit Card,Bronze,493.15,1,34.9,3.3,33,6,1,0,0
+CUST01159,41,Female,Jaipur,Electronics,Website,UPI,Silver,4212.26,1,39.5,3.4,179,5,0,0,1
+CUST01160,18,Female,Pune,Apparel,Online App,UPI,Bronze,773.42,0,0.0,4.7,0,10,0,1,0
+CUST01161,18,Male,Hyderabad,Beauty & Personal Care,Online App,Cash on Delivery,Platinum,651.6,1,31.8,5.0,10,8,0,1,0
+CUST01162,46,Female,Jaipur,Books,Website,UPI,Gold,150.0,0,0.0,4.3,79,8,0,1,0
+CUST01163,34,Male,Mumbai,Beauty & Personal Care,Website,Debit Card,Silver,768.55,0,0.0,2.9,22,8,0,1,0
+CUST01164,23,Male,Mumbai,Electronics,Website,Credit Card,Silver,980.54,1,28.9,2.5,64,4,0,0,0
+CUST01165,40,Male,Kolkata,Grocery,Online App,Credit Card,Silver,875.86,0,0.0,2.4,81,9,0,0,0
+CUST01166,51,Female,Chennai,Apparel,Online App,UPI,Bronze,1378.11,0,0.0,3.2,59,3,0,0,0
+CUST01167,30,Male,Mumbai,Grocery,Website,UPI,Bronze,335.87,0,0.0,5.0,66,4,0,0,0
+CUST01168,26,Female,Jaipur,Books,In-Store,Debit Card,Bronze,513.6,0,0.0,2.7,28,8,0,1,1
+CUST01169,20,Male,Pune,Sports & Fitness,Online App,Debit Card,Gold,1897.06,1,20.5,3.9,6,3,0,0,0
+CUST01170,32,Female,Hyderabad,Sports & Fitness,In-Store,Debit Card,Silver,2101.62,0,0.0,1.2,1,5,0,1,0
+CUST01171,27,Female,Pune,Electronics,Online App,Credit Card,Gold,6723.78,0,0.0,4.0,60,8,0,0,0
+CUST01172,53,Male,Chennai,Books,In-Store,Credit Card,Bronze,971.04,0,0.0,4.0,18,7,0,1,0
+CUST01173,24,Male,Mumbai,Beauty & Personal Care,In-Store,Debit Card,Bronze,761.98,0,0.0,2.3,16,9,0,0,1
+CUST01174,18,Female,Jaipur,Beauty & Personal Care,Website,Net Banking,Bronze,1061.68,0,0.0,4.2,4,8,0,0,0
+CUST01175,34,Female,Bhopal,Electronics,Website,UPI,Silver,3488.11,0,0.0,2.6,53,12,0,1,0
+CUST01176,36,Female,Pune,Grocery,Website,Credit Card,Gold,1100.02,0,0.0,3.4,47,3,0,0,0
+CUST01177,38,Female,Mumbai,Grocery,Online App,Net Banking,Platinum,1145.93,1,15.1,3.3,37,3,1,0,0
+CUST01178,24,Female,Jaipur,Books,Website,Cash on Delivery,Bronze,647.98,1,21.4,3.8,84,6,1,0,0
+CUST01179,45,Male,Pune,Grocery,Website,Debit Card,Bronze,333.21,0,0.0,1.8,46,8,0,0,1
+CUST01180,31,Female,Mumbai,Sports & Fitness,Online App,Debit Card,Silver,2777.46,1,33.4,4.7,39,6,0,0,0
+CUST01181,52,Female,Pune,Grocery,Online App,Net Banking,Bronze,645.68,0,0.0,4.3,12,2,0,0,0
+CUST01182,24,Male,Kolkata,Electronics,Website,UPI,Bronze,3848.09,1,16.0,3.7,52,3,0,0,0
+CUST01183,40,Female,Pune,Grocery,Website,Credit Card,Silver,327.42,0,0.0,3.4,18,5,0,0,0
+CUST01184,34,Male,Mumbai,Apparel,Website,Net Banking,Silver,1329.03,0,0.0,3.0,18,6,0,0,0
+CUST01185,26,Female,Pune,Electronics,Website,Debit Card,Silver,4404.22,0,0.0,4.1,90,4,0,0,0
+CUST01186,19,Female,Delhi,Sports & Fitness,Online App,Credit Card,Bronze,2098.28,0,0.0,4.1,0,6,0,0,0
+CUST01187,60,Female,Pune,Apparel,Online App,Cash on Delivery,Gold,1344.6,0,0.0,3.3,46,6,0,1,0
+CUST01188,24,Female,Pune,Sports & Fitness,Online App,Debit Card,Bronze,1120.87,1,36.9,3.1,76,13,0,1,0
+CUST01189,21,Female,Bhopal,Books,Website,Cash on Delivery,Gold,594.55,1,37.9,2.6,18,5,0,0,0
+CUST01190,40,Male,Kolkata,Grocery,In-Store,UPI,Platinum,799.11,1,39.7,2.7,69,6,0,1,0
+CUST01191,24,Female,Bhopal,Books,Online App,Cash on Delivery,Gold,458.36,1,28.1,4.0,0,6,0,0,0
+CUST01192,50,Male,Jaipur,Home & Kitchen,In-Store,Debit Card,Bronze,1493.2,1,17.7,3.2,21,7,0,1,0
+CUST01193,48,Male,Hyderabad,Beauty & Personal Care,Website,Net Banking,Bronze,743.07,0,0.0,3.4,4,7,0,1,0
+CUST01194,38,Female,Jaipur,Apparel,Online App,Net Banking,Bronze,1692.88,1,39.5,3.7,125,3,1,0,1
+CUST01195,45,Female,Jaipur,Books,Online App,Debit Card,Gold,365.12,0,0.0,4.6,28,5,0,0,0
+CUST01196,36,Male,Jaipur,Beauty & Personal Care,Website,Credit Card,Gold,336.23,1,5.5,5.0,139,5,0,0,0
+CUST01197,18,Female,Delhi,Apparel,In-Store,Net Banking,Bronze,1237.95,0,0.0,4.5,115,9,0,0,1
+CUST01198,48,Female,Kolkata,Home & Kitchen,Online App,Cash on Delivery,Bronze,1012.31,0,0.0,4.4,3,1,0,1,1
+CUST01199,48,Female,Jaipur,Sports & Fitness,Website,UPI,Bronze,1286.42,1,38.2,3.7,23,16,1,1,0
+CUST01200,18,Female,Pune,Grocery,Website,Credit Card,Gold,758.62,1,25.6,4.0,11,7,0,0,0
